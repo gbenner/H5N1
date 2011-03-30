@@ -1,0 +1,576 @@
+report_date	country	latitude	longitude	cases	deaths	uri
+2008-02-25	China (People's Rep. of)	39,1	121,7	NaN	1	http://web.oie.int/wahis/reports/China_fup11_6858_25022008_eng.pdf	
+2008-02-25	China (People's Rep. of)	35,6065	95,8881	NaN	533	http://web.oie.int/wahis/reports/China_fup11_6858_25022008_eng.pdf	
+2008-02-25	China (People's Rep. of)	35,3008	96,4995	NaN	451	http://web.oie.int/wahis/reports/China_fup11_6858_25022008_eng.pdf	
+2008-02-25	China (People's Rep. of)	31,9376	89,2637	NaN	2579	http://web.oie.int/wahis/reports/China_fup11_6858_25022008_eng.pdf	
+2008-02-25	China (People's Rep. of)	31,6319	88,3465	NaN	28	http://web.oie.int/wahis/reports/China_fup11_6858_25022008_eng.pdf	
+2008-02-25	China (People's Rep. of)	31,7338	87,2254	NaN	57	http://web.oie.int/wahis/reports/China_fup11_6858_25022008_eng.pdf	
+2008-07-07	Egypt	29,9311	31,185	9	9	http://web.oie.int/wahis/reports/Egypt_followup7_final%20report.pdf	
+2008-07-07	Egypt	30,1879	31,1667	4	4	http://web.oie.int/wahis/reports/Egypt_followup7_final%20report.pdf	
+2008-07-07	Egypt	30,2304	30,9726	19	19	http://web.oie.int/wahis/reports/Egypt_followup7_final%20report.pdf	
+2008-07-07	Egypt	30,2159	31,214	1	1	http://web.oie.int/wahis/reports/Egypt_followup7_final%20report.pdf	
+2008-07-07	Egypt	30,3269	31,325	1000	1000	http://web.oie.int/wahis/reports/Egypt_followup7_final%20report.pdf	
+2008-07-07	Egypt	30,0373	31,1367	10	10	http://web.oie.int/wahis/reports/Egypt_followup7_final%20report.pdf	
+2008-07-07	Egypt	26,1087	32,3675	13	13	http://web.oie.int/wahis/reports/Egypt_followup7_final%20report.pdf	
+2008-07-07	Egypt	30,0122	31,6088	10	3	http://web.oie.int/wahis/reports/Egypt_followup7_final%20report.pdf	
+2008-02-18	Germany	49,453948	11,101671	NaN	1	http://web.oie.int/wahis/reports/en_fup_0000005786_20080218_153225.pdf	
+2008-02-18	Germany	49,451741	11,10286	NaN	1	http://web.oie.int/wahis/reports/en_fup_0000005786_20080218_153225.pdf	
+2008-02-18	Germany	49,422482	11,111161	NaN	1	http://web.oie.int/wahis/reports/en_fup_0000005786_20080218_153225.pdf	
+2008-02-18	Germany	49,451421	11,098225	NaN	1	http://web.oie.int/wahis/reports/en_fup_0000005786_20080218_153225.pdf	
+2008-02-18	Germany	49,451846	11,103044	NaN	1	http://web.oie.int/wahis/reports/en_fup_0000005786_20080218_153225.pdf	
+2008-02-18	Germany	49,450911	11,099059	NaN	1	http://web.oie.int/wahis/reports/en_fup_0000005786_20080218_153225.pdf	
+2008-02-18	Germany	51,042457	12,528305	NaN	1	http://web.oie.int/wahis/reports/en_fup_0000005786_20080218_153225.pdf	
+2008-02-18	Germany	51,042457	12,528305	NaN	1	http://web.oie.int/wahis/reports/en_fup_0000005786_20080218_153225.pdf	
+2008-01-22	Germany	53,130235	13,112546	10	10	http://web.oie.int/wahis/reports/en_fup_0000006617_20080122_174456.pdf	
+2008-01-22	Germany	52,416584	12,347089	5	2	http://web.oie.int/wahis/reports/en_fup_0000006617_20080122_174456.pdf	
+2008-01-22	Germany	53,059951	12,348993	5	4	http://web.oie.int/wahis/reports/en_fup_0000006617_20080122_174456.pdf	
+2008-01-15	Egypt	28,1019	30,0363	3	3	http://web.oie.int/wahis/reports/en_fup_0000006626_20080115_121726.pdf	
+2008-01-15	Egypt	31,2246	30,4852	200	200	http://web.oie.int/wahis/reports/en_fup_0000006626_20080115_121726.pdf	
+2008-01-15	Egypt	30,0122	31,6088	10	3	http://web.oie.int/wahis/reports/en_fup_0000006626_20080115_121726.pdf	
+2008-01-15	Egypt	26,1087	32,3675	13	13	http://web.oie.int/wahis/reports/en_fup_0000006626_20080115_121726.pdf	
+2008-01-15	Egypt	30,0373	31,1367	10	10	http://web.oie.int/wahis/reports/en_fup_0000006626_20080115_121726.pdf	
+2008-01-15	Egypt	30,3269	31,325	1000	1000	http://web.oie.int/wahis/reports/en_fup_0000006626_20080115_121726.pdf	
+2008-01-15	Egypt	30,2159	31,214	1	1	http://web.oie.int/wahis/reports/en_fup_0000006626_20080115_121726.pdf	
+2008-01-15	Egypt	30,2304	30,9726	19	19	http://web.oie.int/wahis/reports/en_fup_0000006626_20080115_121726.pdf	
+2008-01-04	United Kingdom	52,34929	1,02578	350	200	http://web.oie.int/wahis/reports/en_fup_0000006653_20080104_144600.pdf	
+2008-01-04	United Kingdom	52,39228	0,86437	3	0	http://web.oie.int/wahis/reports/en_fup_0000006653_20080104_144600.pdf	
+2008-01-07	Vietnam	9,3331	105,313	80	50	http://web.oie.int/wahis/reports/en_fup_0000006658_20080107_180252.pdf	
+2008-01-07	Vietnam	9,104654	104,839648	188	134	http://web.oie.int/wahis/reports/en_fup_0000006658_20080107_180252.pdf	
+2008-01-07	Vietnam	9,1353	105,1108	225	225	http://web.oie.int/wahis/reports/en_fup_0000006658_20080107_180252.pdf	
+2008-01-07	Vietnam	9,11198	104,890706	2523	2523	http://web.oie.int/wahis/reports/en_fup_0000006658_20080107_180252.pdf	
+2008-01-07	Vietnam	9,2027	105,3237	3550	3550	http://web.oie.int/wahis/reports/en_fup_0000006658_20080107_180252.pdf	
+2008-01-07	Vietnam	9,0843	105,0743	40	40	http://web.oie.int/wahis/reports/en_fup_0000006658_20080107_180252.pdf	
+2008-01-07	Vietnam	9,1501	105,0027	45	45	http://web.oie.int/wahis/reports/en_fup_0000006658_20080107_180252.pdf	
+2008-01-07	Vietnam	9,1132	105,0751	7	7	http://web.oie.int/wahis/reports/en_fup_0000006658_20080107_180252.pdf	
+2008-01-07	Israel	32,5195133375	34,9647465364	12	12	http://web.oie.int/wahis/reports/en_fup_0000006659_20080107_191039.pdf	
+2008-01-04	China (People's Rep. of)	39,1	121,7	NaN	1	http://web.oie.int/wahis/reports/en_fup_0000006670_20080104_130926.pdf	
+2008-01-04	China (People's Rep. of)	35,6065	95,8881	NaN	533	http://web.oie.int/wahis/reports/en_fup_0000006670_20080104_130926.pdf	
+2008-01-04	China (People's Rep. of)	31,9376	89,2637	NaN	2579	http://web.oie.int/wahis/reports/en_fup_0000006670_20080104_130926.pdf	
+2008-01-04	China (People's Rep. of)	35,3008	96,4995	NaN	451	http://web.oie.int/wahis/reports/en_fup_0000006670_20080104_130926.pdf	
+2008-01-04	China (People's Rep. of)	31,7338	87,2254	NaN	57	http://web.oie.int/wahis/reports/en_fup_0000006670_20080104_130926.pdf	
+2008-01-04	China (People's Rep. of)	31,6319	88,3465	NaN	28	http://web.oie.int/wahis/reports/en_fup_0000006670_20080104_130926.pdf	
+2008-04-17	Canada	50,7339	104,9628	540	540	http://web.oie.int/wahis/reports/en_fup_0000006690_20080418_182722.pdf	
+2008-01-18	United Kingdom	50,6532	2,6025	4	4	http://web.oie.int/wahis/reports/en_fup_0000006691_20080118_174802.pdf	
+2008-01-20	Egypt	30,0122	31,6088	10	3	http://web.oie.int/wahis/reports/en_fup_0000006694_20080120_121544.pdf	
+2008-01-20	Egypt	31,2246	30,4852	200	200	http://web.oie.int/wahis/reports/en_fup_0000006694_20080120_121544.pdf	
+2008-01-20	Egypt	28,1019	30,0363	3	3	http://web.oie.int/wahis/reports/en_fup_0000006694_20080120_121544.pdf	
+2008-01-20	Egypt	30,0373	31,1367	10	10	http://web.oie.int/wahis/reports/en_fup_0000006694_20080120_121544.pdf	
+2008-01-20	Egypt	26,1087	32,3675	13	13	http://web.oie.int/wahis/reports/en_fup_0000006694_20080120_121544.pdf	
+2008-01-20	Egypt	30,2304	30,9726	19	19	http://web.oie.int/wahis/reports/en_fup_0000006694_20080120_121544.pdf	
+2008-01-20	Egypt	30,2159	31,214	1	1	http://web.oie.int/wahis/reports/en_fup_0000006694_20080120_121544.pdf	
+2008-01-20	Egypt	30,3269	31,325	1000	1000	http://web.oie.int/wahis/reports/en_fup_0000006694_20080120_121544.pdf	
+2008-01-25	Thailand	16,50175	100,4737	30	30	http://web.oie.int/wahis/reports/en_fup_0000006718_20080125_142041.pdf	
+2008-01-25	Thailand	15,9052	100,299	4085	4085	http://web.oie.int/wahis/reports/en_fup_0000006718_20080125_142041.pdf	
+2008-02-17	Saudi Arabia	21,0951	45,8013	NaN	0	http://web.oie.int/wahis/reports/en_fup_0000006721_20080218_191838.pdf	
+2008-02-17	Saudi Arabia	21,0951	45,8013	NaN	0	http://web.oie.int/wahis/reports/en_fup_0000006721_20080218_191838.pdf	
+2008-02-17	Saudi Arabia	21,0951	45,8013	NaN	0	http://web.oie.int/wahis/reports/en_fup_0000006721_20080218_191838.pdf	
+2008-02-17	Saudi Arabia	24,1483	47,305	1500	1500	http://web.oie.int/wahis/reports/en_fup_0000006721_20080218_191838.pdf	
+2008-02-17	Saudi Arabia	24,27565	46,18193	NaN	NaN	http://web.oie.int/wahis/reports/en_fup_0000006721_20080218_191838.pdf	
+2008-02-17	Saudi Arabia	24,47678	46,3834	NaN	0	http://web.oie.int/wahis/reports/en_fup_0000006721_20080218_191838.pdf	
+2008-02-17	Saudi Arabia	24,1483	47,305	NaN	NaN	http://web.oie.int/wahis/reports/en_fup_0000006721_20080218_191838.pdf	
+2008-02-17	Saudi Arabia	24,28607	46,23004	NaN	NaN	http://web.oie.int/wahis/reports/en_fup_0000006721_20080218_191838.pdf	
+2008-01-27	Iran	36,65387	52,61894	14	14	http://web.oie.int/wahis/reports/en_fup_0000006722_20080127_153437.pdf	
+2008-01-28	Turkey	41,7193	32,3923	13	13	http://web.oie.int/wahis/reports/en_fup_0000006723_20080128_150720.pdf	
+2008-01-28	Benin	6,4612	2,6417	33	33	http://web.oie.int/wahis/reports/en_fup_0000006726_20080128_181426.pdf	
+2008-01-28	Benin	6,5075	2,5923	55	55	http://web.oie.int/wahis/reports/en_fup_0000006726_20080128_181426.pdf	
+2008-01-28	Benin	6,3648	2,4014	238	67	http://web.oie.int/wahis/reports/en_fup_0000006726_20080128_181426.pdf	
+2008-01-28	Benin	6,4952	2,6182	16	16	http://web.oie.int/wahis/reports/en_fup_0000006726_20080128_181426.pdf	
+2008-01-28	Benin	6,5415	2,5398	9	9	http://web.oie.int/wahis/reports/en_fup_0000006726_20080128_181426.pdf	
+2008-01-29	Egypt	30,3269	31,325	1000	1000	http://web.oie.int/wahis/reports/en_fup_0000006731_20080129_121544.pdf	
+2008-01-29	Egypt	30,2159	31,214	1	1	http://web.oie.int/wahis/reports/en_fup_0000006731_20080129_121544.pdf	
+2008-01-29	Egypt	30,2304	30,9726	19	19	http://web.oie.int/wahis/reports/en_fup_0000006731_20080129_121544.pdf	
+2008-01-29	Egypt	30,1879	31,1667	4	4	http://web.oie.int/wahis/reports/en_fup_0000006731_20080129_121544.pdf	
+2008-01-29	Egypt	29,9311	31,185	9	9	http://web.oie.int/wahis/reports/en_fup_0000006731_20080129_121544.pdf	
+2008-01-29	Egypt	28,1019	30,0363	3	3	http://web.oie.int/wahis/reports/en_fup_0000006731_20080129_121544.pdf	
+2008-01-29	Egypt	31,2246	30,4852	200	200	http://web.oie.int/wahis/reports/en_fup_0000006731_20080129_121544.pdf	
+2008-01-29	Egypt	30,0122	31,6088	10	3	http://web.oie.int/wahis/reports/en_fup_0000006731_20080129_121544.pdf	
+2008-01-29	China (People's Rep. of)	39,1	121,7	NaN	1	http://web.oie.int/wahis/reports/en_fup_0000006732_20080129_123544.pdf	
+2008-01-29	China (People's Rep. of)	35,6065	95,8881	NaN	533	http://web.oie.int/wahis/reports/en_fup_0000006732_20080129_123544.pdf	
+2008-01-29	China (People's Rep. of)	35,3008	96,4995	NaN	451	http://web.oie.int/wahis/reports/en_fup_0000006732_20080129_123544.pdf	
+2008-01-29	China (People's Rep. of)	31,9376	89,2637	NaN	2579	http://web.oie.int/wahis/reports/en_fup_0000006732_20080129_123544.pdf	
+2008-01-29	China (People's Rep. of)	31,6319	88,3465	NaN	28	http://web.oie.int/wahis/reports/en_fup_0000006732_20080129_123544.pdf	
+2008-01-29	China (People's Rep. of)	31,7338	87,2254	NaN	57	http://web.oie.int/wahis/reports/en_fup_0000006732_20080129_123544.pdf	
+2008-01-29	United Kingdom	50,6532	2,6025	6	6	http://web.oie.int/wahis/reports/en_fup_0000006733_20080129_174947.pdf	
+2008-01-30	Thailand	16,50175	100,4737	30	30	http://web.oie.int/wahis/reports/en_fup_0000006735_20080130_140716.pdf	
+2008-01-30	Thailand	15,9052	100,299	4085	4085	http://web.oie.int/wahis/reports/en_fup_0000006735_20080130_140716.pdf	
+2008-01-30	Ukraine	45,52	34,24	173	173	http://web.oie.int/wahis/reports/en_fup_0000006736_20080130_140937.pdf	
+2008-01-31	Poland	52,6	19,46	3220	300	http://web.oie.int/wahis/reports/en_fup_0000006742_20080131_151328.pdf	
+2008-01-31	Poland	52,61	19,46	1025	60	http://web.oie.int/wahis/reports/en_fup_0000006742_20080131_151328.pdf	
+2008-01-31	Poland	52,61	19,43	13	2	http://web.oie.int/wahis/reports/en_fup_0000006742_20080131_151328.pdf	
+2008-01-31	Poland	52,974	19,901	NaN	610	http://web.oie.int/wahis/reports/en_fup_0000006742_20080131_151328.pdf	
+2008-01-31	Poland	52,9897	19,9325	NaN	209	http://web.oie.int/wahis/reports/en_fup_0000006742_20080131_151328.pdf	
+2008-01-31	Poland	54,133	20,083	18	NaN	http://web.oie.int/wahis/reports/en_fup_0000006742_20080131_151328.pdf	
+2008-01-31	Poland	54,102	19,996	NaN	30	http://web.oie.int/wahis/reports/en_fup_0000006742_20080131_151328.pdf	
+2008-01-31	Poland	54,102	19,996	NaN	7	http://web.oie.int/wahis/reports/en_fup_0000006742_20080131_151328.pdf	
+2008-02-01	Vietnam	9,3331	105,313	80	50	http://web.oie.int/wahis/reports/en_fup_0000006744_20080201_174605.pdf	
+2008-02-01	Vietnam	9,104654	104,839648	188	134	http://web.oie.int/wahis/reports/en_fup_0000006744_20080201_174605.pdf	
+2008-02-01	Vietnam	9,1353	105,1108	225	225	http://web.oie.int/wahis/reports/en_fup_0000006744_20080201_174605.pdf	
+2008-02-01	Vietnam	9,11198	104,890706	2523	2523	http://web.oie.int/wahis/reports/en_fup_0000006744_20080201_174605.pdf	
+2008-02-01	Vietnam	9,2027	105,3237	3550	3550	http://web.oie.int/wahis/reports/en_fup_0000006744_20080201_174605.pdf	
+2008-02-01	Vietnam	9,0843	105,0743	40	40	http://web.oie.int/wahis/reports/en_fup_0000006744_20080201_174605.pdf	
+2008-02-01	Vietnam	9,1501	105,0027	45	45	http://web.oie.int/wahis/reports/en_fup_0000006744_20080201_174605.pdf	
+2008-02-01	Vietnam	9,1132	105,0751	7	7	http://web.oie.int/wahis/reports/en_fup_0000006744_20080201_174605.pdf	
+2008-02-04	Turkey	41,7193	32,3923	13	13	http://web.oie.int/wahis/reports/en_fup_0000006753_20080204_180257.pdf	
+2008-02-04	Turkey	41,524963	36,076722	25	20	http://web.oie.int/wahis/reports/en_fup_0000006753_20080204_180257.pdf	
+2008-02-04	Egypt	30,1879	31,1667	4	4	http://web.oie.int/wahis/reports/en_fup_0000006754_20080207_121544.pdf	
+2008-02-04	Egypt	29,9311	31,185	9	9	http://web.oie.int/wahis/reports/en_fup_0000006754_20080207_121544.pdf	
+2008-02-04	Egypt	30,3269	31,325	1000	1000	http://web.oie.int/wahis/reports/en_fup_0000006754_20080207_121544.pdf	
+2008-02-04	Egypt	30,2159	31,214	1	1	http://web.oie.int/wahis/reports/en_fup_0000006754_20080207_121544.pdf	
+2008-02-04	Egypt	30,2304	30,9726	19	19	http://web.oie.int/wahis/reports/en_fup_0000006754_20080207_121544.pdf	
+2008-02-04	Egypt	26,1087	32,3675	13	13	http://web.oie.int/wahis/reports/en_fup_0000006754_20080207_121544.pdf	
+2008-02-04	Egypt	30,0373	31,1367	10	10	http://web.oie.int/wahis/reports/en_fup_0000006754_20080207_121544.pdf	
+2008-02-04	Egypt	31,2246	30,4852	200	200	http://web.oie.int/wahis/reports/en_fup_0000006754_20080207_121544.pdf	
+2008-02-02	Pakistan	34,404	73,121	100	100	http://web.oie.int/wahis/reports/en_fup_0000006756_20080202_165827.pdf	
+2008-02-02	Pakistan	33,651	72,968	20	18	http://web.oie.int/wahis/reports/en_fup_0000006756_20080202_165827.pdf	
+2008-02-02	Pakistan	33,72	73,06	5	1	http://web.oie.int/wahis/reports/en_fup_0000006756_20080202_165827.pdf	
+2008-02-02	Pakistan	33,72	73,06	4	3	http://web.oie.int/wahis/reports/en_fup_0000006756_20080202_165827.pdf	
+2008-02-02	Pakistan	34,03	71,49	10	6	http://web.oie.int/wahis/reports/en_fup_0000006756_20080202_165827.pdf	
+2008-02-02	Pakistan	34,03	71,49	91	64	http://web.oie.int/wahis/reports/en_fup_0000006756_20080202_165827.pdf	
+2008-02-02	Pakistan	34,03	71,49	90	60	http://web.oie.int/wahis/reports/en_fup_0000006756_20080202_165827.pdf	
+2008-02-02	Pakistan	34,03	71,49	2	2	http://web.oie.int/wahis/reports/en_fup_0000006756_20080202_165827.pdf	
+2008-02-06	Thailand	16,50175	100,4737	30	30	http://web.oie.int/wahis/reports/en_fup_0000006759_20080207_144559.pdf	
+2008-02-06	Thailand	15,9052	100,299	4085	4085	http://web.oie.int/wahis/reports/en_fup_0000006759_20080207_144559.pdf	
+2008-02-06	United Kingdom	50,6532	2,6025	9	9	http://web.oie.int/wahis/reports/en_fup_0000006760_20080206_160926.pdf	
+2008-02-06	United Kingdom	50,6185	2,4582	1	1	http://web.oie.int/wahis/reports/en_fup_0000006760_20080206_160926.pdf	
+2008-02-12	Turkey	41,7193	32,3923	13	13	http://web.oie.int/wahis/reports/en_fup_0000006781_20080212_125256.pdf	
+2008-02-12	Turkey	41,524963	36,076722	25	20	http://web.oie.int/wahis/reports/en_fup_0000006781_20080212_125256.pdf	
+2008-02-09	India	,	,	35525	35525	http://web.oie.int/wahis/reports/en_fup_0000006783_20080209_163412.pdf	
+2008-02-09	India	25,3606	88,7228	261	261	http://web.oie.int/wahis/reports/en_fup_0000006783_20080209_163412.pdf	
+2008-02-09	India	23,4504	88,3484	1057	1057	http://web.oie.int/wahis/reports/en_fup_0000006783_20080209_163412.pdf	
+2008-02-09	India	,	23,2393	9592	9592	http://web.oie.int/wahis/reports/en_fup_0000006783_20080209_163412.pdf	
+2008-02-09	India	,	,	12194	12194	http://web.oie.int/wahis/reports/en_fup_0000006783_20080209_163412.pdf	
+2008-02-09	India	,	,	3557	3557	http://web.oie.int/wahis/reports/en_fup_0000006783_20080209_163412.pdf	
+2008-02-09	India	,	,	613	613	http://web.oie.int/wahis/reports/en_fup_0000006783_20080209_163412.pdf	
+2008-02-11	Benin	6,4612	2,6417	33	33	http://web.oie.int/wahis/reports/en_fup_0000006784_20080211_163522.pdf	
+2008-02-11	Benin	6,5075	2,5923	55	55	http://web.oie.int/wahis/reports/en_fup_0000006784_20080211_163522.pdf	
+2008-02-11	Benin	6,3648	2,4014	238	67	http://web.oie.int/wahis/reports/en_fup_0000006784_20080211_163522.pdf	
+2008-02-11	Benin	6,4952	2,6182	16	16	http://web.oie.int/wahis/reports/en_fup_0000006784_20080211_163522.pdf	
+2008-02-11	Benin	6,5415	2,5398	9	9	http://web.oie.int/wahis/reports/en_fup_0000006784_20080211_163522.pdf	
+2008-02-11	Togo	6,25	1,616667	2505	2505	http://web.oie.int/wahis/reports/en_fup_0000006785_20080211_175039.pdf	
+2008-02-11	Togo	6,11775	1,23528	1252	1252	http://web.oie.int/wahis/reports/en_fup_0000006785_20080211_175039.pdf	
+2008-02-11	Togo	6,17235	1,14521	254	254	http://web.oie.int/wahis/reports/en_fup_0000006785_20080211_175039.pdf	
+2008-02-13	Thailand	16,50175	100,4737	30	30	http://web.oie.int/wahis/reports/en_fup_0000006790_20080215_174933.pdf	
+2008-02-13	Thailand	15,9052	100,299	4085	4085	http://web.oie.int/wahis/reports/en_fup_0000006790_20080215_174933.pdf	
+2008-02-13	Turkey	41,7193	32,3923	13	13	http://web.oie.int/wahis/reports/en_fup_0000006796_20080215_151744.pdf	
+2008-02-13	Turkey	41,524963	36,076722	25	20	http://web.oie.int/wahis/reports/en_fup_0000006796_20080215_151744.pdf	
+2008-02-13	Turkey	41,058886	30,594703	20	19	http://web.oie.int/wahis/reports/en_fup_0000006796_20080215_151744.pdf	
+2008-02-13	Turkey	41,299563	36,902944	4	4	http://web.oie.int/wahis/reports/en_fup_0000006796_20080215_151744.pdf	
+2008-02-13	Ukraine	45,52	34,24	173	173	http://web.oie.int/wahis/reports/en_fup_0000006799_20080215_190228.pdf	
+2008-02-13	Ukraine	45,5	33,07	3	3	http://web.oie.int/wahis/reports/en_fup_0000006799_20080215_190228.pdf	
+2008-02-13	Ukraine	,	,	NaN	8	http://web.oie.int/wahis/reports/en_fup_0000006799_20080215_190228.pdf	
+2008-02-15	Nigeria	10,7833	7,7666	42000	40000	http://web.oie.int/wahis/reports/en_fup_0000006800_20080215_130346.pdf	
+2008-02-15	Nigeria	,	6,8531	94000	94000	http://web.oie.int/wahis/reports/en_fup_0000006800_20080215_130346.pdf	
+2008-02-15	Nigeria	,	,	1600	1600	http://web.oie.int/wahis/reports/en_fup_0000006800_20080215_130346.pdf	
+2008-02-15	Nigeria	,	11,6431	300	300	http://web.oie.int/wahis/reports/en_fup_0000006800_20080215_130346.pdf	
+2008-02-15	Nigeria	,	,	NaN	NaN	http://web.oie.int/wahis/reports/en_fup_0000006800_20080215_130346.pdf	
+2008-02-15	Nigeria	,	,	1080	1080	http://web.oie.int/wahis/reports/en_fup_0000006800_20080215_130346.pdf	
+2008-02-15	Nigeria	,	9,8666	1875	1875	http://web.oie.int/wahis/reports/en_fup_0000006800_20080215_130346.pdf	
+2008-02-15	Nigeria	,	9,8666	7201	4826	http://web.oie.int/wahis/reports/en_fup_0000006800_20080215_130346.pdf	
+2008-02-15	Laos	18,21	102,56	8	8	http://web.oie.int/wahis/reports/en_fup_0000006803_20080215_183723.pdf	
+2008-02-15	Laos	18,21	102,56	148	148	http://web.oie.int/wahis/reports/en_fup_0000006803_20080215_183723.pdf	
+2008-02-15	Laos	17,91	102,66	100	100	http://web.oie.int/wahis/reports/en_fup_0000006803_20080215_183723.pdf	
+2008-02-15	Laos	17,91	102,66	12	12	http://web.oie.int/wahis/reports/en_fup_0000006803_20080215_183723.pdf	
+2008-02-15	Laos	15,15	105,85	1334	1334	http://web.oie.int/wahis/reports/en_fup_0000006803_20080215_183723.pdf	
+2008-02-15	Laos	18,3	102,75	200	200	http://web.oie.int/wahis/reports/en_fup_0000006803_20080215_183723.pdf	
+2008-02-15	Laos	18,45	102,5	62	62	http://web.oie.int/wahis/reports/en_fup_0000006803_20080215_183723.pdf	
+2008-02-15	Laos	,	,	3600	3600	http://web.oie.int/wahis/reports/en_fup_0000006803_20080215_183723.pdf	
+2008-02-17	Iran	36,65387	52,61894	14	14	http://web.oie.int/wahis/reports/en_fup_0000006808_20080217_184934.pdf	
+2008-02-18	China (People's Rep. of)	39,1	121,7	NaN	1	http://web.oie.int/wahis/reports/en_fup_0000006811_20080218_185329.pdf	
+2008-02-18	China (People's Rep. of)	35,6065	95,8881	NaN	533	http://web.oie.int/wahis/reports/en_fup_0000006811_20080218_185329.pdf	
+2008-02-18	China (People's Rep. of)	31,9376	89,2637	NaN	2579	http://web.oie.int/wahis/reports/en_fup_0000006811_20080218_185329.pdf	
+2008-02-18	China (People's Rep. of)	35,3008	96,4995	NaN	451	http://web.oie.int/wahis/reports/en_fup_0000006811_20080218_185329.pdf	
+2008-02-18	China (People's Rep. of)	31,6319	88,3465	NaN	28	http://web.oie.int/wahis/reports/en_fup_0000006811_20080218_185329.pdf	
+2008-02-18	China (People's Rep. of)	31,7338	87,2254	NaN	57	http://web.oie.int/wahis/reports/en_fup_0000006811_20080218_185329.pdf	
+2008-02-20	Pakistan	34,404	73,121	100	100	http://web.oie.int/wahis/reports/en_fup_0000006819_20080221_152931.pdf	
+2008-02-20	Pakistan	33,651	72,968	20	18	http://web.oie.int/wahis/reports/en_fup_0000006819_20080221_152931.pdf	
+2008-02-20	Pakistan	33,72	73,06	5	1	http://web.oie.int/wahis/reports/en_fup_0000006819_20080221_152931.pdf	
+2008-02-20	Pakistan	33,72	73,06	4	3	http://web.oie.int/wahis/reports/en_fup_0000006819_20080221_152931.pdf	
+2008-02-20	Pakistan	34,03	71,49	91	64	http://web.oie.int/wahis/reports/en_fup_0000006819_20080221_152931.pdf	
+2008-02-20	Pakistan	34,03	71,49	10	6	http://web.oie.int/wahis/reports/en_fup_0000006819_20080221_152931.pdf	
+2008-02-20	Pakistan	34,03	71,49	90	60	http://web.oie.int/wahis/reports/en_fup_0000006819_20080221_152931.pdf	
+2008-02-20	Pakistan	34,03	71,49	2	2	http://web.oie.int/wahis/reports/en_fup_0000006819_20080221_152931.pdf	
+2008-02-23	Vietnam	9,3331	105,313	80	50	http://web.oie.int/wahis/reports/en_fup_0000006828_20080223_174654.pdf	
+2008-02-23	Vietnam	9,104654	104,839648	188	134	http://web.oie.int/wahis/reports/en_fup_0000006828_20080223_174654.pdf	
+2008-02-23	Vietnam	9,1353	105,1108	225	225	http://web.oie.int/wahis/reports/en_fup_0000006828_20080223_174654.pdf	
+2008-02-23	Vietnam	9,11198	104,890706	2523	2523	http://web.oie.int/wahis/reports/en_fup_0000006828_20080223_174654.pdf	
+2008-02-23	Vietnam	9,2027	105,3237	3550	3550	http://web.oie.int/wahis/reports/en_fup_0000006828_20080223_174654.pdf	
+2008-02-23	Vietnam	9,0843	105,0743	40	40	http://web.oie.int/wahis/reports/en_fup_0000006828_20080223_174654.pdf	
+2008-02-23	Vietnam	9,1501	105,0027	45	45	http://web.oie.int/wahis/reports/en_fup_0000006828_20080223_174654.pdf	
+2008-02-23	Vietnam	9,1132	105,0751	7	7	http://web.oie.int/wahis/reports/en_fup_0000006828_20080223_174654.pdf	
+2008-02-25	Ukraine	45,52	34,24	173	173	http://web.oie.int/wahis/reports/en_fup_0000006838_20080225_175120.pdf	
+2008-02-25	Ukraine	45,5	33,07	3	3	http://web.oie.int/wahis/reports/en_fup_0000006838_20080225_175120.pdf	
+2008-02-25	Ukraine	,	,	NaN	8	http://web.oie.int/wahis/reports/en_fup_0000006838_20080225_175120.pdf	
+2008-02-26	Turkey	41,7193	32,3923	13	13	http://web.oie.int/wahis/reports/en_fup_0000006841_20080226_165051.pdf	
+2008-02-26	Turkey	41,524963	36,076722	25	20	http://web.oie.int/wahis/reports/en_fup_0000006841_20080226_165051.pdf	
+2008-02-26	Turkey	41,058886	30,594703	20	19	http://web.oie.int/wahis/reports/en_fup_0000006841_20080226_165051.pdf	
+2008-02-26	Turkey	41,299563	36,902944	4	4	http://web.oie.int/wahis/reports/en_fup_0000006841_20080226_165051.pdf	
+2008-02-26	Turkey	41,898423	35,054491	13	13	http://web.oie.int/wahis/reports/en_fup_0000006841_20080226_165051.pdf	
+2008-02-26	Pakistan	34,404	73,121	100	100	http://web.oie.int/wahis/reports/en_fup_0000006842_20080226_105931.pdf	
+2008-02-26	Pakistan	33,651	72,968	20	18	http://web.oie.int/wahis/reports/en_fup_0000006842_20080226_105931.pdf	
+2008-02-26	Pakistan	33,72	73,06	5	1	http://web.oie.int/wahis/reports/en_fup_0000006842_20080226_105931.pdf	
+2008-02-26	Pakistan	33,72	73,06	4	3	http://web.oie.int/wahis/reports/en_fup_0000006842_20080226_105931.pdf	
+2008-02-26	Pakistan	34,03	71,49	90	60	http://web.oie.int/wahis/reports/en_fup_0000006842_20080226_105931.pdf	
+2008-02-26	Pakistan	34,03	71,49	91	64	http://web.oie.int/wahis/reports/en_fup_0000006842_20080226_105931.pdf	
+2008-02-26	Pakistan	34,03	71,49	10	6	http://web.oie.int/wahis/reports/en_fup_0000006842_20080226_105931.pdf	
+2008-02-26	Pakistan	34,03	71,49	2	2	http://web.oie.int/wahis/reports/en_fup_0000006842_20080226_105931.pdf	
+2008-02-27	Benin	6,4612	2,6417	33	33	http://web.oie.int/wahis/reports/en_fup_0000006848_20080227_140533.pdf	
+2008-02-27	Benin	6,5075	2,5923	55	55	http://web.oie.int/wahis/reports/en_fup_0000006848_20080227_140533.pdf	
+2008-02-27	Benin	6,3648	2,4014	238	67	http://web.oie.int/wahis/reports/en_fup_0000006848_20080227_140533.pdf	
+2008-02-27	Benin	6,4952	2,6182	16	16	http://web.oie.int/wahis/reports/en_fup_0000006848_20080227_140533.pdf	
+2008-02-27	Benin	6,5415	2,5398	9	9	http://web.oie.int/wahis/reports/en_fup_0000006848_20080227_140533.pdf	
+2008-03-01	Myanmar	17,9069	96,5233	400	400	http://web.oie.int/wahis/reports/en_fup_0000006864_20080301_134551.pdf	
+2008-03-01	Myanmar	21,1339	99,797	2058	2058	http://web.oie.int/wahis/reports/en_fup_0000006864_20080301_134551.pdf	
+2008-03-05	Turkey	41,7193	32,3923	13	13	http://web.oie.int/wahis/reports/en_fup_0000006873_20080305_162231.pdf	
+2008-03-05	Turkey	41,524963	36,076722	25	20	http://web.oie.int/wahis/reports/en_fup_0000006873_20080305_162231.pdf	
+2008-03-05	Turkey	41,058886	30,594703	20	19	http://web.oie.int/wahis/reports/en_fup_0000006873_20080305_162231.pdf	
+2008-03-05	Turkey	41,299563	36,902944	4	4	http://web.oie.int/wahis/reports/en_fup_0000006873_20080305_162231.pdf	
+2008-03-05	Turkey	41,898423	35,054491	13	13	http://web.oie.int/wahis/reports/en_fup_0000006873_20080305_162231.pdf	
+2008-03-05	United Kingdom	50,6532	2,6025	10	10	http://web.oie.int/wahis/reports/en_fup_0000006874_20080305_153507.pdf	
+2008-03-05	United Kingdom	50,6185	2,4582	1	1	http://web.oie.int/wahis/reports/en_fup_0000006874_20080305_153507.pdf	
+2008-03-10	Pakistan	34,404	73,121	100	100	http://web.oie.int/wahis/reports/en_fup_0000006884_20080310_175524.pdf	
+2008-03-10	Pakistan	33,651	72,968	20	18	http://web.oie.int/wahis/reports/en_fup_0000006884_20080310_175524.pdf	
+2008-03-10	Pakistan	33,72	73,06	5	1	http://web.oie.int/wahis/reports/en_fup_0000006884_20080310_175524.pdf	
+2008-03-10	Pakistan	33,72	73,06	4	3	http://web.oie.int/wahis/reports/en_fup_0000006884_20080310_175524.pdf	
+2008-03-10	Pakistan	34,03	71,49	91	64	http://web.oie.int/wahis/reports/en_fup_0000006884_20080310_175524.pdf	
+2008-03-10	Pakistan	34,03	71,49	90	60	http://web.oie.int/wahis/reports/en_fup_0000006884_20080310_175524.pdf	
+2008-03-10	Pakistan	34,03	71,49	10	6	http://web.oie.int/wahis/reports/en_fup_0000006884_20080310_175524.pdf	
+2008-03-10	Pakistan	34,03	71,49	2	2	http://web.oie.int/wahis/reports/en_fup_0000006884_20080310_175524.pdf	
+2008-03-26	Germany	53,130235	13,112546	10	10	http://web.oie.int/wahis/reports/en_fup_0000006886_20080326_154503.pdf	
+2008-03-26	Germany	52,416584	12,347089	5	2	http://web.oie.int/wahis/reports/en_fup_0000006886_20080326_154503.pdf	
+2008-03-26	Germany	53,059951	12,348993	5	4	http://web.oie.int/wahis/reports/en_fup_0000006886_20080326_154503.pdf	
+2008-03-11	Benin	6,4612	2,6417	33	33	http://web.oie.int/wahis/reports/en_fup_0000006888_20080311_181005.pdf	
+2008-03-11	Benin	6,5075	2,5923	55	55	http://web.oie.int/wahis/reports/en_fup_0000006888_20080311_181005.pdf	
+2008-03-11	Benin	6,3648	2,4014	238	67	http://web.oie.int/wahis/reports/en_fup_0000006888_20080311_181005.pdf	
+2008-03-11	Benin	6,4952	2,6182	16	16	http://web.oie.int/wahis/reports/en_fup_0000006888_20080311_181005.pdf	
+2008-03-11	Benin	6,5415	2,5398	9	9	http://web.oie.int/wahis/reports/en_fup_0000006888_20080311_181005.pdf	
+2008-03-12	Vietnam	9,3331	105,313	80	50	http://web.oie.int/wahis/reports/en_fup_0000006889_20080312_174732.pdf	
+2008-03-12	Vietnam	9,104654	104,839648	188	134	http://web.oie.int/wahis/reports/en_fup_0000006889_20080312_174732.pdf	
+2008-03-12	Vietnam	9,1353	105,1108	225	225	http://web.oie.int/wahis/reports/en_fup_0000006889_20080312_174732.pdf	
+2008-03-12	Vietnam	9,11198	104,890706	2523	2523	http://web.oie.int/wahis/reports/en_fup_0000006889_20080312_174732.pdf	
+2008-03-12	Vietnam	9,2027	105,3237	3550	3550	http://web.oie.int/wahis/reports/en_fup_0000006889_20080312_174732.pdf	
+2008-03-12	Vietnam	9,0843	105,0743	40	40	http://web.oie.int/wahis/reports/en_fup_0000006889_20080312_174732.pdf	
+2008-03-12	Vietnam	9,1501	105,0027	45	45	http://web.oie.int/wahis/reports/en_fup_0000006889_20080312_174732.pdf	
+2008-03-12	Vietnam	9,1132	105,0751	7	7	http://web.oie.int/wahis/reports/en_fup_0000006889_20080312_174732.pdf	
+2008-03-12	Turkey	41,7193	32,3923	13	13	http://web.oie.int/wahis/reports/en_fup_0000006890_20080312_143232.pdf	
+2008-03-12	Turkey	41,524963	36,076722	25	20	http://web.oie.int/wahis/reports/en_fup_0000006890_20080312_143232.pdf	
+2008-03-12	Turkey	41,058886	30,594703	20	19	http://web.oie.int/wahis/reports/en_fup_0000006890_20080312_143232.pdf	
+2008-03-12	Turkey	41,299563	36,902944	4	4	http://web.oie.int/wahis/reports/en_fup_0000006890_20080312_143232.pdf	
+2008-03-12	Turkey	41,898423	35,054491	13	13	http://web.oie.int/wahis/reports/en_fup_0000006890_20080312_143232.pdf	
+2008-03-16	Bangladesh	24,333	88,91	13	13	http://web.oie.int/wahis/reports/en_fup_0000006904_20080316_184445.pdf	
+2008-03-16	Bangladesh	24,333	88,91	10	10	http://web.oie.int/wahis/reports/en_fup_0000006904_20080316_184445.pdf	
+2008-03-16	Bangladesh	23,84	90,25	12000	12000	http://web.oie.int/wahis/reports/en_fup_0000006904_20080316_184445.pdf	
+2008-03-16	Bangladesh	23,8	90,35	880	880	http://web.oie.int/wahis/reports/en_fup_0000006904_20080316_184445.pdf	
+2008-03-16	Bangladesh	24,333	88,91	90	90	http://web.oie.int/wahis/reports/en_fup_0000006904_20080316_184445.pdf	
+2008-03-16	Bangladesh	23,68	90,55	212	212	http://web.oie.int/wahis/reports/en_fup_0000006904_20080316_184445.pdf	
+2008-03-16	Bangladesh	23,91	90,3	200	200	http://web.oie.int/wahis/reports/en_fup_0000006904_20080316_184445.pdf	
+2008-03-16	Bangladesh	23,79	90,29	319	319	http://web.oie.int/wahis/reports/en_fup_0000006904_20080316_184445.pdf	
+2008-03-16	China (People's Rep. of)	39,1	121,7	NaN	1	http://web.oie.int/wahis/reports/en_fup_0000006905_20080316_184541.pdf	
+2008-03-16	China (People's Rep. of)	35,6065	95,8881	NaN	533	http://web.oie.int/wahis/reports/en_fup_0000006905_20080316_184541.pdf	
+2008-03-16	China (People's Rep. of)	31,9376	89,2637	NaN	2579	http://web.oie.int/wahis/reports/en_fup_0000006905_20080316_184541.pdf	
+2008-03-16	China (People's Rep. of)	35,3008	96,4995	NaN	451	http://web.oie.int/wahis/reports/en_fup_0000006905_20080316_184541.pdf	
+2008-03-16	China (People's Rep. of)	31,6319	88,3465	NaN	28	http://web.oie.int/wahis/reports/en_fup_0000006905_20080316_184541.pdf	
+2008-03-16	China (People's Rep. of)	31,7338	87,2254	NaN	57	http://web.oie.int/wahis/reports/en_fup_0000006905_20080316_184541.pdf	
+2008-03-19	Ukraine	45,52	34,24	173	173	http://web.oie.int/wahis/reports/en_fup_0000006909_20080319_125643.pdf	
+2008-03-19	Ukraine	45,5	33,07	3	3	http://web.oie.int/wahis/reports/en_fup_0000006909_20080319_125643.pdf	
+2008-03-19	Ukraine	,	,	NaN	8	http://web.oie.int/wahis/reports/en_fup_0000006909_20080319_125643.pdf	
+2008-03-26	Turkey	40,869491	26,442036	22	22	http://web.oie.int/wahis/reports/en_fup_0000006914_20080328_174502.pdf	
+2008-03-28	India	,	,	35525	35525	http://web.oie.int/wahis/reports/en_fup_0000006924_20080328_160319.pdf	
+2008-03-28	India	25,3606	88,7228	261	261	http://web.oie.int/wahis/reports/en_fup_0000006924_20080328_160319.pdf	
+2008-03-28	India	,	,	12194	12194	http://web.oie.int/wahis/reports/en_fup_0000006924_20080328_160319.pdf	
+2008-03-28	India	,	23,2393	9592	9592	http://web.oie.int/wahis/reports/en_fup_0000006924_20080328_160319.pdf	
+2008-03-28	India	23,4504	88,3484	1057	1057	http://web.oie.int/wahis/reports/en_fup_0000006924_20080328_160319.pdf	
+2008-03-28	India	,	,	613	613	http://web.oie.int/wahis/reports/en_fup_0000006924_20080328_160319.pdf	
+2008-03-28	India	,	,	3557	3557	http://web.oie.int/wahis/reports/en_fup_0000006924_20080328_160319.pdf	
+2008-04-01	Vietnam	9,3331	105,313	80	50	http://web.oie.int/wahis/reports/en_fup_0000006929_20080403_174816.pdf	
+2008-04-01	Vietnam	9,104654	104,839648	188	134	http://web.oie.int/wahis/reports/en_fup_0000006929_20080403_174816.pdf	
+2008-04-01	Vietnam	9,1353	105,1108	225	225	http://web.oie.int/wahis/reports/en_fup_0000006929_20080403_174816.pdf	
+2008-04-01	Vietnam	9,11198	104,890706	2523	2523	http://web.oie.int/wahis/reports/en_fup_0000006929_20080403_174816.pdf	
+2008-04-01	Vietnam	9,2027	105,3237	3550	3550	http://web.oie.int/wahis/reports/en_fup_0000006929_20080403_174816.pdf	
+2008-04-01	Vietnam	9,0843	105,0743	40	40	http://web.oie.int/wahis/reports/en_fup_0000006929_20080403_174816.pdf	
+2008-04-01	Vietnam	9,1501	105,0027	45	45	http://web.oie.int/wahis/reports/en_fup_0000006929_20080403_174816.pdf	
+2008-04-01	Vietnam	9,1132	105,0751	7	7	http://web.oie.int/wahis/reports/en_fup_0000006929_20080403_174816.pdf	
+2008-04-04	Korea (Rep. of)	35,4948	126,5912	NaN	2380	http://web.oie.int/wahis/reports/en_fup_0000006938_20080404_121508.pdf	
+2008-04-04	Vietnam	20,1803	105,3851	579	6	http://web.oie.int/wahis/reports/en_fup_0000006939_20080404_122908.pdf	
+2008-04-07	Korea (Rep. of)	35,4948	126,5912	2380	2380	http://web.oie.int/wahis/reports/en_fup_0000006943_20080407_151920.pdf	
+2008-04-07	Korea (Rep. of)	35,3922	126,4529	6000	6000	http://web.oie.int/wahis/reports/en_fup_0000006943_20080407_151920.pdf	
+2008-04-07	China (People's Rep. of)	39,1	121,7	NaN	1	http://web.oie.int/wahis/reports/en_fup_0000006945_20080408_163216.pdf	
+2008-04-07	China (People's Rep. of)	35,6065	95,8881	NaN	533	http://web.oie.int/wahis/reports/en_fup_0000006945_20080408_163216.pdf	
+2008-04-07	China (People's Rep. of)	31,9376	89,2637	NaN	2579	http://web.oie.int/wahis/reports/en_fup_0000006945_20080408_163216.pdf	
+2008-04-07	China (People's Rep. of)	35,3008	96,4995	NaN	451	http://web.oie.int/wahis/reports/en_fup_0000006945_20080408_163216.pdf	
+2008-04-07	China (People's Rep. of)	31,6319	88,3465	NaN	28	http://web.oie.int/wahis/reports/en_fup_0000006945_20080408_163216.pdf	
+2008-04-07	China (People's Rep. of)	31,7338	87,2254	NaN	57	http://web.oie.int/wahis/reports/en_fup_0000006945_20080408_163216.pdf	
+2008-04-08	India	,	,	35525	35525	http://web.oie.int/wahis/reports/en_fup_0000006951_20080409_152051.pdf	
+2008-04-08	India	25,3606	88,7228	261	261	http://web.oie.int/wahis/reports/en_fup_0000006951_20080409_152051.pdf	
+2008-04-08	India	,	,	12194	12194	http://web.oie.int/wahis/reports/en_fup_0000006951_20080409_152051.pdf	
+2008-04-08	India	23,4504	88,3484	1057	1057	http://web.oie.int/wahis/reports/en_fup_0000006951_20080409_152051.pdf	
+2008-04-08	India	,	23,2393	9592	9592	http://web.oie.int/wahis/reports/en_fup_0000006951_20080409_152051.pdf	
+2008-04-08	India	,	23,8018	41500	41500	http://web.oie.int/wahis/reports/en_fup_0000006951_20080409_152051.pdf	
+2008-04-08	India	23,249	87,0806	400	400	http://web.oie.int/wahis/reports/en_fup_0000006951_20080409_152051.pdf	
+2008-04-11	Russia	45,216666	39,685555	18	18	http://web.oie.int/wahis/reports/en_fup_0000006957_20080411_155116.pdf	
+2008-04-11	Russia	44,394333	41,0275	8	8	http://web.oie.int/wahis/reports/en_fup_0000006957_20080411_155116.pdf	
+2008-04-11	Russia	46,104333	38,258333	3	3	http://web.oie.int/wahis/reports/en_fup_0000006957_20080411_155116.pdf	
+2008-04-11	Russia	55,2	36,48	17	17	http://web.oie.int/wahis/reports/en_fup_0000006957_20080411_155116.pdf	
+2008-04-11	Russia	56,73	37,55	62	62	http://web.oie.int/wahis/reports/en_fup_0000006957_20080411_155116.pdf	
+2008-04-11	Russia	55,73	36,86	17	17	http://web.oie.int/wahis/reports/en_fup_0000006957_20080411_155116.pdf	
+2008-04-11	Russia	55,37	36,74	31	31	http://web.oie.int/wahis/reports/en_fup_0000006957_20080411_155116.pdf	
+2008-04-11	Russia	55,43	37,75	13	13	http://web.oie.int/wahis/reports/en_fup_0000006957_20080411_155116.pdf	
+2008-04-14	Turkey	40,869491	26,442036	22	22	http://web.oie.int/wahis/reports/en_fup_0000006960_20080414_181819.pdf	
+2008-04-15	Korea (Rep. of)	35,4948	126,5912	2380	2380	http://web.oie.int/wahis/reports/en_fup_0000006963_20080415_182025.pdf	
+2008-04-15	Korea (Rep. of)	35,3922	126,4529	6000	6000	http://web.oie.int/wahis/reports/en_fup_0000006963_20080415_182025.pdf	
+2008-04-15	Korea (Rep. of)	35,3659	126,4838	200	200	http://web.oie.int/wahis/reports/en_fup_0000006963_20080415_182025.pdf	
+2008-04-15	Korea (Rep. of)	35,384689	126,435359	430	430	http://web.oie.int/wahis/reports/en_fup_0000006963_20080415_182025.pdf	
+2008-04-15	Korea (Rep. of)	35,500584	126,590428	12	12	http://web.oie.int/wahis/reports/en_fup_0000006963_20080415_182025.pdf	
+2008-04-15	Korea (Rep. of)	35,510755	126,592816	15	15	http://web.oie.int/wahis/reports/en_fup_0000006963_20080415_182025.pdf	
+2008-04-15	Korea (Rep. of)	35,511409	126,593017	60	60	http://web.oie.int/wahis/reports/en_fup_0000006963_20080415_182025.pdf	
+2008-04-15	Korea (Rep. of)	35,502411	126,584999	8	8	http://web.oie.int/wahis/reports/en_fup_0000006963_20080415_182025.pdf	
+2008-04-20	Myanmar	17,9069	96,5233	400	400	http://web.oie.int/wahis/reports/en_fup_0000006985_20080420_181954.pdf	
+2008-04-20	Myanmar	21,1339	99,797	2058	2058	http://web.oie.int/wahis/reports/en_fup_0000006985_20080420_181954.pdf	
+2008-04-23	Vietnam	9,3331	105,313	80	50	http://web.oie.int/wahis/reports/en_fup_0000006994_20080423_174854.pdf	
+2008-04-23	Vietnam	9,104654	104,839648	188	134	http://web.oie.int/wahis/reports/en_fup_0000006994_20080423_174854.pdf	
+2008-04-23	Vietnam	9,1353	105,1108	225	225	http://web.oie.int/wahis/reports/en_fup_0000006994_20080423_174854.pdf	
+2008-04-23	Vietnam	9,11198	104,890706	2523	2523	http://web.oie.int/wahis/reports/en_fup_0000006994_20080423_174854.pdf	
+2008-04-23	Vietnam	9,2027	105,3237	3550	3550	http://web.oie.int/wahis/reports/en_fup_0000006994_20080423_174854.pdf	
+2008-04-23	Vietnam	9,0843	105,0743	40	40	http://web.oie.int/wahis/reports/en_fup_0000006994_20080423_174854.pdf	
+2008-04-23	Vietnam	9,1501	105,0027	45	45	http://web.oie.int/wahis/reports/en_fup_0000006994_20080423_174854.pdf	
+2008-04-23	Vietnam	9,1132	105,0751	7	7	http://web.oie.int/wahis/reports/en_fup_0000006994_20080423_174854.pdf	
+2008-05-01	India	,	,	35525	35525	http://web.oie.int/wahis/reports/en_fup_0000006995_20080501_115808.pdf	
+2008-05-01	India	25,3606	88,7228	261	261	http://web.oie.int/wahis/reports/en_fup_0000006995_20080501_115808.pdf	
+2008-05-01	India	,	,	12194	12194	http://web.oie.int/wahis/reports/en_fup_0000006995_20080501_115808.pdf	
+2008-05-01	India	23,4504	88,3484	1057	1057	http://web.oie.int/wahis/reports/en_fup_0000006995_20080501_115808.pdf	
+2008-05-01	India	,	23,2393	9592	9592	http://web.oie.int/wahis/reports/en_fup_0000006995_20080501_115808.pdf	
+2008-05-01	India	,	,	613	613	http://web.oie.int/wahis/reports/en_fup_0000006995_20080501_115808.pdf	
+2008-05-01	India	,	,	3557	3557	http://web.oie.int/wahis/reports/en_fup_0000006995_20080501_115808.pdf	
+2008-04-24	Bangladesh	24,333	88,91	13	13	http://web.oie.int/wahis/reports/en_fup_0000006999_20080424_142725.pdf	
+2008-04-24	Bangladesh	24,333	88,91	10	10	http://web.oie.int/wahis/reports/en_fup_0000006999_20080424_142725.pdf	
+2008-04-24	Bangladesh	23,84	90,25	12000	12000	http://web.oie.int/wahis/reports/en_fup_0000006999_20080424_142725.pdf	
+2008-04-24	Bangladesh	23,8	90,35	880	880	http://web.oie.int/wahis/reports/en_fup_0000006999_20080424_142725.pdf	
+2008-04-24	Bangladesh	24,333	88,91	90	90	http://web.oie.int/wahis/reports/en_fup_0000006999_20080424_142725.pdf	
+2008-04-24	Bangladesh	23,68	90,55	212	212	http://web.oie.int/wahis/reports/en_fup_0000006999_20080424_142725.pdf	
+2008-04-24	Bangladesh	23,91	90,3	200	200	http://web.oie.int/wahis/reports/en_fup_0000006999_20080424_142725.pdf	
+2008-04-24	Bangladesh	23,79	90,29	319	319	http://web.oie.int/wahis/reports/en_fup_0000006999_20080424_142725.pdf	
+2008-04-30	Benin	6,4612	2,6417	33	33	http://web.oie.int/wahis/reports/en_fup_0000007010_20080501_115627.pdf	
+2008-04-30	Benin	6,5075	2,5923	55	55	http://web.oie.int/wahis/reports/en_fup_0000007010_20080501_115627.pdf	
+2008-04-30	Benin	6,3648	2,4014	238	67	http://web.oie.int/wahis/reports/en_fup_0000007010_20080501_115627.pdf	
+2008-04-30	Benin	6,4952	2,6182	16	16	http://web.oie.int/wahis/reports/en_fup_0000007010_20080501_115627.pdf	
+2008-04-30	Benin	6,5415	2,5398	9	9	http://web.oie.int/wahis/reports/en_fup_0000007010_20080501_115627.pdf	
+2008-05-09	Japan	40,1939	140,4549	NaN	4	http://web.oie.int/wahis/reports/en_fup_0000007014_20080509_181651.pdf	
+2008-05-09	Japan	43,3351	145,2115	NaN	1	http://web.oie.int/wahis/reports/en_fup_0000007014_20080509_181651.pdf	
+2008-05-11	Saudi Arabia	21,0951	45,8013	NaN	0	http://web.oie.int/wahis/reports/en_fup_0000007017_20080511_111709.pdf	
+2008-05-11	Saudi Arabia	21,0951	45,8013	NaN	0	http://web.oie.int/wahis/reports/en_fup_0000007017_20080511_111709.pdf	
+2008-05-11	Saudi Arabia	21,0951	45,8013	NaN	0	http://web.oie.int/wahis/reports/en_fup_0000007017_20080511_111709.pdf	
+2008-05-11	Saudi Arabia	24,1483	47,305	1500	1500	http://web.oie.int/wahis/reports/en_fup_0000007017_20080511_111709.pdf	
+2008-05-11	Saudi Arabia	24,27565	46,18193	NaN	NaN	http://web.oie.int/wahis/reports/en_fup_0000007017_20080511_111709.pdf	
+2008-05-11	Saudi Arabia	24,47678	46,3834	NaN	0	http://web.oie.int/wahis/reports/en_fup_0000007017_20080511_111709.pdf	
+2008-05-11	Saudi Arabia	24,1483	47,305	NaN	NaN	http://web.oie.int/wahis/reports/en_fup_0000007017_20080511_111709.pdf	
+2008-05-11	Saudi Arabia	24,28607	46,23004	NaN	NaN	http://web.oie.int/wahis/reports/en_fup_0000007017_20080511_111709.pdf	
+2008-04-11	Poland	52,61	19,46	1025	60	http://web.oie.int/wahis/reports/en_fup_0000007023_20080411_183134.pdf	
+2008-04-11	Poland	52,6	19,46	3220	300	http://web.oie.int/wahis/reports/en_fup_0000007023_20080411_183134.pdf	
+2008-04-11	Poland	52,61	19,43	13	2	http://web.oie.int/wahis/reports/en_fup_0000007023_20080411_183134.pdf	
+2008-04-11	Poland	52,974	19,901	NaN	610	http://web.oie.int/wahis/reports/en_fup_0000007023_20080411_183134.pdf	
+2008-04-11	Poland	52,9897	19,9325	NaN	209	http://web.oie.int/wahis/reports/en_fup_0000007023_20080411_183134.pdf	
+2008-04-11	Poland	54,133	20,083	18	NaN	http://web.oie.int/wahis/reports/en_fup_0000007023_20080411_183134.pdf	
+2008-04-11	Poland	54,102	19,996	NaN	30	http://web.oie.int/wahis/reports/en_fup_0000007023_20080411_183134.pdf	
+2008-04-11	Poland	54,102	19,996	NaN	7	http://web.oie.int/wahis/reports/en_fup_0000007023_20080411_183134.pdf	
+2008-03-31	Romania	44,8848	29,1311	31	31	http://web.oie.int/wahis/reports/en_fup_0000007025_20080331_184016.pdf	
+2008-04-08	Israel	32,5195133375	34,9647465364	12	12	http://web.oie.int/wahis/reports/en_fup_0000007027_20080408_184659.pdf	
+2008-05-12	United Kingdom	52,34929	1,02578	350	200	http://web.oie.int/wahis/reports/en_fup_0000007028_20080512_112233.pdf	
+2008-05-12	United Kingdom	52,39228	0,86437	3	0	http://web.oie.int/wahis/reports/en_fup_0000007028_20080512_112233.pdf	
+2008-05-13	Japan	40,1939	140,4549	NaN	4	http://web.oie.int/wahis/reports/en_fup_0000007029_20080513_114109.pdf	
+2008-05-13	Japan	43,3351	145,2115	NaN	1	http://web.oie.int/wahis/reports/en_fup_0000007029_20080513_114109.pdf	
+2008-05-13	Japan	44,0549	143,5437	NaN	1	http://web.oie.int/wahis/reports/en_fup_0000007029_20080513_114109.pdf	
+2008-06-03	India	,	,	35525	35525	http://web.oie.int/wahis/reports/en_fup_0000007033_20080603_155412.pdf	
+2008-06-03	India	25,3606	88,7228	261	261	http://web.oie.int/wahis/reports/en_fup_0000007033_20080603_155412.pdf	
+2008-06-03	India	,	,	12194	12194	http://web.oie.int/wahis/reports/en_fup_0000007033_20080603_155412.pdf	
+2008-06-03	India	,	23,2393	9592	9592	http://web.oie.int/wahis/reports/en_fup_0000007033_20080603_155412.pdf	
+2008-06-03	India	23,4504	88,3484	1057	1057	http://web.oie.int/wahis/reports/en_fup_0000007033_20080603_155412.pdf	
+2008-06-03	India	,	,	3557	3557	http://web.oie.int/wahis/reports/en_fup_0000007033_20080603_155412.pdf	
+2008-06-03	India	,	,	613	613	http://web.oie.int/wahis/reports/en_fup_0000007033_20080603_155412.pdf	
+2008-05-20	Korea (Rep. of)	35,4948	126,5912	2380	2380	http://web.oie.int/wahis/reports/en_fup_0000007050_20080521_174453.pdf	
+2008-05-20	Korea (Rep. of)	35,3922	126,4529	6000	6000	http://web.oie.int/wahis/reports/en_fup_0000007050_20080521_174453.pdf	
+2008-05-20	Korea (Rep. of)	35,3659	126,4838	200	200	http://web.oie.int/wahis/reports/en_fup_0000007050_20080521_174453.pdf	
+2008-05-20	Korea (Rep. of)	35,384689	126,435359	430	430	http://web.oie.int/wahis/reports/en_fup_0000007050_20080521_174453.pdf	
+2008-05-20	Korea (Rep. of)	35,500464	127,000087	8	8	http://web.oie.int/wahis/reports/en_fup_0000007050_20080521_174453.pdf	
+2008-05-20	Korea (Rep. of)	35,510755	126,592816	15	15	http://web.oie.int/wahis/reports/en_fup_0000007050_20080521_174453.pdf	
+2008-05-20	Korea (Rep. of)	35,500584	126,590428	12	12	http://web.oie.int/wahis/reports/en_fup_0000007050_20080521_174453.pdf	
+2008-05-20	Korea (Rep. of)	35,511409	126,593017	60	60	http://web.oie.int/wahis/reports/en_fup_0000007050_20080521_174453.pdf	
+2008-05-21	Japan	40,1939	140,4549	NaN	4	http://web.oie.int/wahis/reports/en_fup_0000007052_20080521_174300.pdf	
+2008-05-21	Japan	43,3351	145,2115	NaN	1	http://web.oie.int/wahis/reports/en_fup_0000007052_20080521_174300.pdf	
+2008-05-21	Japan	44,0549	143,5437	NaN	1	http://web.oie.int/wahis/reports/en_fup_0000007052_20080521_174300.pdf	
+2008-06-01	Japan	40,2528	140,5333	NaN	1	http://web.oie.int/wahis/reports/en_fup_0000007082_20080602_170028.pdf	
+2008-06-01	Japan	40,1939	140,4549	NaN	4	http://web.oie.int/wahis/reports/en_fup_0000007082_20080602_170028.pdf	
+2008-06-01	Japan	43,3351	145,2115	NaN	1	http://web.oie.int/wahis/reports/en_fup_0000007082_20080602_170028.pdf	
+2008-06-01	Japan	44,0549	143,5437	NaN	1	http://web.oie.int/wahis/reports/en_fup_0000007082_20080602_170028.pdf	
+2008-06-01	Japan	40,283	140,5627	NaN	1	http://web.oie.int/wahis/reports/en_fup_0000007082_20080602_170028.pdf	
+2008-06-11	Bangladesh	24,333	88,91	13	13	http://web.oie.int/wahis/reports/en_fup_0000007107_20080611_121734.pdf	
+2008-06-11	Bangladesh	24,333	88,91	10	10	http://web.oie.int/wahis/reports/en_fup_0000007107_20080611_121734.pdf	
+2008-06-11	Bangladesh	23,84	90,25	12000	12000	http://web.oie.int/wahis/reports/en_fup_0000007107_20080611_121734.pdf	
+2008-06-11	Bangladesh	23,8	90,35	880	880	http://web.oie.int/wahis/reports/en_fup_0000007107_20080611_121734.pdf	
+2008-06-11	Bangladesh	23,91	90,3	200	200	http://web.oie.int/wahis/reports/en_fup_0000007107_20080611_121734.pdf	
+2008-06-11	Bangladesh	23,68	90,55	212	212	http://web.oie.int/wahis/reports/en_fup_0000007107_20080611_121734.pdf	
+2008-06-11	Bangladesh	24,333	88,91	90	90	http://web.oie.int/wahis/reports/en_fup_0000007107_20080611_121734.pdf	
+2008-06-11	Bangladesh	23,79	90,29	319	319	http://web.oie.int/wahis/reports/en_fup_0000007107_20080611_121734.pdf	
+2008-06-13	United Kingdom	52,068843	1,470215	15000	10000	http://web.oie.int/wahis/reports/en_fup_0000007119_20080613_163206.pdf	
+2008-06-17	Pakistan	34,404	73,121	100	100	http://web.oie.int/wahis/reports/en_fup_0000007125_20080617_121359.pdf	
+2008-06-17	Pakistan	33,651	72,968	20	18	http://web.oie.int/wahis/reports/en_fup_0000007125_20080617_121359.pdf	
+2008-06-17	Pakistan	33,72	73,06	5	1	http://web.oie.int/wahis/reports/en_fup_0000007125_20080617_121359.pdf	
+2008-06-17	Pakistan	33,72	73,06	4	3	http://web.oie.int/wahis/reports/en_fup_0000007125_20080617_121359.pdf	
+2008-06-17	Pakistan	34,03	71,49	91	64	http://web.oie.int/wahis/reports/en_fup_0000007125_20080617_121359.pdf	
+2008-06-17	Pakistan	34,03	71,49	90	60	http://web.oie.int/wahis/reports/en_fup_0000007125_20080617_121359.pdf	
+2008-06-17	Pakistan	34,03	71,49	10	6	http://web.oie.int/wahis/reports/en_fup_0000007125_20080617_121359.pdf	
+2008-06-17	Pakistan	34,03	71,49	2	2	http://web.oie.int/wahis/reports/en_fup_0000007125_20080617_121359.pdf	
+2008-04-25	Thailand	16,50175	100,4737	30	30	http://web.oie.int/wahis/reports/en_fup_0000007142_20080425_175248.pdf	
+2008-04-25	Thailand	15,9052	100,299	4085	4085	http://web.oie.int/wahis/reports/en_fup_0000007142_20080425_175248.pdf	
+2008-07-14	Vietnam	9,3331	105,313	80	50	http://web.oie.int/wahis/reports/en_fup_0000007188_20080714_174951.pdf	
+2008-07-14	Vietnam	9,104654	104,839648	188	134	http://web.oie.int/wahis/reports/en_fup_0000007188_20080714_174951.pdf	
+2008-07-14	Vietnam	9,1353	105,1108	225	225	http://web.oie.int/wahis/reports/en_fup_0000007188_20080714_174951.pdf	
+2008-07-14	Vietnam	9,11198	104,890706	2523	2523	http://web.oie.int/wahis/reports/en_fup_0000007188_20080714_174951.pdf	
+2008-07-14	Vietnam	9,2027	105,3237	3550	3550	http://web.oie.int/wahis/reports/en_fup_0000007188_20080714_174951.pdf	
+2008-07-14	Vietnam	9,0843	105,0743	40	40	http://web.oie.int/wahis/reports/en_fup_0000007188_20080714_174951.pdf	
+2008-07-14	Vietnam	9,1501	105,0027	45	45	http://web.oie.int/wahis/reports/en_fup_0000007188_20080714_174951.pdf	
+2008-07-14	Vietnam	9,1132	105,0751	7	7	http://web.oie.int/wahis/reports/en_fup_0000007188_20080714_174951.pdf	
+2008-07-14	China (People's Rep. of)	22,29	112,5	3873	3873	http://web.oie.int/wahis/reports/en_fup_0000007195_20080714_150103.pdf	
+2008-07-14	India	,	,	35525	35525	http://web.oie.int/wahis/reports/en_fup_0000007196_20080716_164357.pdf	
+2008-07-14	India	25,3606	88,7228	261	261	http://web.oie.int/wahis/reports/en_fup_0000007196_20080716_164357.pdf	
+2008-07-14	India	23,4504	88,3484	1057	1057	http://web.oie.int/wahis/reports/en_fup_0000007196_20080716_164357.pdf	
+2008-07-14	India	,	23,2393	9592	9592	http://web.oie.int/wahis/reports/en_fup_0000007196_20080716_164357.pdf	
+2008-07-14	India	,	,	12194	12194	http://web.oie.int/wahis/reports/en_fup_0000007196_20080716_164357.pdf	
+2008-07-14	India	,	,	613	613	http://web.oie.int/wahis/reports/en_fup_0000007196_20080716_164357.pdf	
+2008-07-14	India	,	,	3557	3557	http://web.oie.int/wahis/reports/en_fup_0000007196_20080716_164357.pdf	
+2008-07-17	China (People's Rep. of)	39,1	121,7	NaN	1	http://web.oie.int/wahis/reports/en_fup_0000007202_20080717_154319.pdf	
+2008-07-17	China (People's Rep. of)	35,6065	95,8881	NaN	533	http://web.oie.int/wahis/reports/en_fup_0000007202_20080717_154319.pdf	
+2008-07-17	China (People's Rep. of)	35,3008	96,4995	NaN	451	http://web.oie.int/wahis/reports/en_fup_0000007202_20080717_154319.pdf	
+2008-07-17	China (People's Rep. of)	31,9376	89,2637	NaN	2579	http://web.oie.int/wahis/reports/en_fup_0000007202_20080717_154319.pdf	
+2008-07-17	China (People's Rep. of)	31,6319	88,3465	NaN	28	http://web.oie.int/wahis/reports/en_fup_0000007202_20080717_154319.pdf	
+2008-07-17	China (People's Rep. of)	31,7338	87,2254	NaN	57	http://web.oie.int/wahis/reports/en_fup_0000007202_20080717_154319.pdf	
+2008-07-18	Ukraine	45,52	34,24	173	173	http://web.oie.int/wahis/reports/en_fup_0000007205_20080718_191525.pdf	
+2008-07-18	Ukraine	45,5	33,07	3	3	http://web.oie.int/wahis/reports/en_fup_0000007205_20080718_191525.pdf	
+2008-07-18	Ukraine	,	,	NaN	8	http://web.oie.int/wahis/reports/en_fup_0000007205_20080718_191525.pdf	
+2008-07-18	United Kingdom	52,068843	1,470215	15000	10000	http://web.oie.int/wahis/reports/en_fup_0000007206_20080718_191616.pdf	
+2008-08-03	Iran	36,65387	52,61894	14	14	http://web.oie.int/wahis/reports/en_fup_0000007243_20080804_180415.pdf	
+2008-08-14	Korea (Rep. of)	35,4948	126,5912	2380	2380	http://web.oie.int/wahis/reports/en_fup_0000007270_20080814_153432.pdf	
+2008-08-14	Korea (Rep. of)	35,3922	126,4529	6000	6000	http://web.oie.int/wahis/reports/en_fup_0000007270_20080814_153432.pdf	
+2008-08-14	Korea (Rep. of)	35,3659	126,4838	200	200	http://web.oie.int/wahis/reports/en_fup_0000007270_20080814_153432.pdf	
+2008-08-14	Korea (Rep. of)	35,384689	126,435359	430	430	http://web.oie.int/wahis/reports/en_fup_0000007270_20080814_153432.pdf	
+2008-08-14	Korea (Rep. of)	35,500464	127,000087	8	8	http://web.oie.int/wahis/reports/en_fup_0000007270_20080814_153432.pdf	
+2008-08-14	Korea (Rep. of)	35,510755	126,592816	15	15	http://web.oie.int/wahis/reports/en_fup_0000007270_20080814_153432.pdf	
+2008-08-14	Korea (Rep. of)	35,500584	126,590428	12	12	http://web.oie.int/wahis/reports/en_fup_0000007270_20080814_153432.pdf	
+2008-08-28	United Kingdom	52,068843	1,470215	15000	10000	http://web.oie.int/wahis/reports/en_fup_0000007307_20080828_181104.pdf	
+2008-09-20	United Kingdom	50,6532	2,6025	10	10	http://web.oie.int/wahis/reports/en_fup_0000007363_20080920_121557.pdf	
+2008-09-20	United Kingdom	50,6185	2,4582	1	1	http://web.oie.int/wahis/reports/en_fup_0000007363_20080920_121557.pdf	
+2008-09-25	Pakistan	34,1333	72,85	4000	4000	http://web.oie.int/wahis/reports/en_fup_0000007375_20080925_152107.pdf	
+2008-09-30	Vietnam	9,3331	105,313	80	50	http://web.oie.int/wahis/reports/en_fup_0000007385_20080930_175040.pdf	
+2008-09-30	Vietnam	9,104654	104,839648	188	134	http://web.oie.int/wahis/reports/en_fup_0000007385_20080930_175040.pdf	
+2008-09-30	Vietnam	9,1353	105,1108	225	225	http://web.oie.int/wahis/reports/en_fup_0000007385_20080930_175040.pdf	
+2008-09-30	Vietnam	9,11198	104,890706	2523	2523	http://web.oie.int/wahis/reports/en_fup_0000007385_20080930_175040.pdf	
+2008-09-30	Vietnam	9,2027	105,3237	3550	3550	http://web.oie.int/wahis/reports/en_fup_0000007385_20080930_175040.pdf	
+2008-09-30	Vietnam	9,0843	105,0743	40	40	http://web.oie.int/wahis/reports/en_fup_0000007385_20080930_175040.pdf	
+2008-09-30	Vietnam	9,1501	105,0027	45	45	http://web.oie.int/wahis/reports/en_fup_0000007385_20080930_175040.pdf	
+2008-09-30	Vietnam	9,1132	105,0751	7	7	http://web.oie.int/wahis/reports/en_fup_0000007385_20080930_175040.pdf	
+2008-10-10	Togo	6,200039	1,385578	4231	4231	http://web.oie.int/wahis/reports/en_fup_0000007399_20081010_152257.pdf	
+2008-10-07	Cambodia	12,06	105,38	302	302	http://web.oie.int/wahis/reports/en_fup_0000007404_20081007_172249.pdf	
+2008-10-15	Russia	45,216666	39,685555	18	18	http://web.oie.int/wahis/reports/en_fup_0000007428_20081015_130350.pdf	
+2008-10-15	Russia	44,394333	41,0275	8	8	http://web.oie.int/wahis/reports/en_fup_0000007428_20081015_130350.pdf	
+2008-10-15	Russia	46,104333	38,258333	3	3	http://web.oie.int/wahis/reports/en_fup_0000007428_20081015_130350.pdf	
+2008-10-15	Russia	55,2	36,48	17	17	http://web.oie.int/wahis/reports/en_fup_0000007428_20081015_130350.pdf	
+2008-10-15	Russia	55,73	36,86	17	17	http://web.oie.int/wahis/reports/en_fup_0000007428_20081015_130350.pdf	
+2008-10-15	Russia	56,73	37,55	62	62	http://web.oie.int/wahis/reports/en_fup_0000007428_20081015_130350.pdf	
+2008-10-15	Russia	55,37	36,74	31	31	http://web.oie.int/wahis/reports/en_fup_0000007428_20081015_130350.pdf	
+2008-10-15	Russia	55,43	37,75	13	13	http://web.oie.int/wahis/reports/en_fup_0000007428_20081015_130350.pdf	
+2008-10-31	India	,	,	35525	35525	http://web.oie.int/wahis/reports/en_fup_0000007471_20081104_152919.pdf	
+2008-10-31	India	25,3606	88,7228	261	261	http://web.oie.int/wahis/reports/en_fup_0000007471_20081104_152919.pdf	
+2008-10-31	India	,	23,2393	9592	9592	http://web.oie.int/wahis/reports/en_fup_0000007471_20081104_152919.pdf	
+2008-10-31	India	23,4504	88,3484	1057	1057	http://web.oie.int/wahis/reports/en_fup_0000007471_20081104_152919.pdf	
+2008-10-31	India	23,249	87,0806	400	400	http://web.oie.int/wahis/reports/en_fup_0000007471_20081104_152919.pdf	
+2008-10-31	India	,	,	613	613	http://web.oie.int/wahis/reports/en_fup_0000007471_20081104_152919.pdf	
+2008-10-31	India	,	23,8018	41500	41500	http://web.oie.int/wahis/reports/en_fup_0000007471_20081104_152919.pdf	
+2008-11-10	Laos	20,3732	102,2722	247	197	http://web.oie.int/wahis/reports/en_fup_0000007504_20081110_114736.pdf	
+2008-11-10	Laos	20,4035	101,5803	23	23	http://web.oie.int/wahis/reports/en_fup_0000007504_20081110_114736.pdf	
+2008-11-20	Bangladesh	24,333	88,91	13	13	http://web.oie.int/wahis/reports/en_fup_0000007538_20081120_191821.pdf	
+2008-11-20	Bangladesh	24,333	88,91	10	10	http://web.oie.int/wahis/reports/en_fup_0000007538_20081120_191821.pdf	
+2008-11-20	Bangladesh	23,84	90,25	12000	12000	http://web.oie.int/wahis/reports/en_fup_0000007538_20081120_191821.pdf	
+2008-11-20	Bangladesh	23,8	90,35	880	880	http://web.oie.int/wahis/reports/en_fup_0000007538_20081120_191821.pdf	
+2008-11-20	Bangladesh	23,68	90,55	212	212	http://web.oie.int/wahis/reports/en_fup_0000007538_20081120_191821.pdf	
+2008-11-20	Bangladesh	23,91	90,3	200	200	http://web.oie.int/wahis/reports/en_fup_0000007538_20081120_191821.pdf	
+2008-11-20	Bangladesh	23,79	90,29	319	319	http://web.oie.int/wahis/reports/en_fup_0000007538_20081120_191821.pdf	
+2008-11-20	Bangladesh	24,333	88,91	90	90	http://web.oie.int/wahis/reports/en_fup_0000007538_20081120_191821.pdf	
+2008-11-27	Vietnam	9,3331	105,313	80	50	http://web.oie.int/wahis/reports/en_fup_0000007562_20081127_175133.pdf	
+2008-11-27	Vietnam	9,104654	104,839648	188	134	http://web.oie.int/wahis/reports/en_fup_0000007562_20081127_175133.pdf	
+2008-11-27	Vietnam	9,1353	105,1108	225	225	http://web.oie.int/wahis/reports/en_fup_0000007562_20081127_175133.pdf	
+2008-11-27	Vietnam	9,11198	104,890706	2523	2523	http://web.oie.int/wahis/reports/en_fup_0000007562_20081127_175133.pdf	
+2008-11-27	Vietnam	9,2027	105,3237	3550	3550	http://web.oie.int/wahis/reports/en_fup_0000007562_20081127_175133.pdf	
+2008-11-27	Vietnam	9,0843	105,0743	40	40	http://web.oie.int/wahis/reports/en_fup_0000007562_20081127_175133.pdf	
+2008-11-27	Vietnam	9,1501	105,0027	45	45	http://web.oie.int/wahis/reports/en_fup_0000007562_20081127_175133.pdf	
+2008-11-27	Vietnam	9,1132	105,0751	7	7	http://web.oie.int/wahis/reports/en_fup_0000007562_20081127_175133.pdf	
+2008-12-11	India	26,2	91,15	324	324	http://web.oie.int/wahis/reports/en_fup_0000007606_20081212_150210.pdf	
+2008-12-11	India	26,2	91,15	682	682	http://web.oie.int/wahis/reports/en_fup_0000007606_20081212_150210.pdf	
+2008-12-11	India	26,5	90,39	18	18	http://web.oie.int/wahis/reports/en_fup_0000007606_20081212_150210.pdf	
+2008-12-11	India	26,2	91,15	112	112	http://web.oie.int/wahis/reports/en_fup_0000007606_20081212_150210.pdf	
+2008-12-11	India	26,35	90,38	399	399	http://web.oie.int/wahis/reports/en_fup_0000007606_20081212_150210.pdf	
+2008-12-17	India	26,2	91,15	324	324	http://web.oie.int/wahis/reports/en_fup_0000007617_20081218_170411.pdf	
+2008-12-17	India	26,2	91,15	682	682	http://web.oie.int/wahis/reports/en_fup_0000007617_20081218_170411.pdf	
+2008-12-17	India	26,5	90,39	18	18	http://web.oie.int/wahis/reports/en_fup_0000007617_20081218_170411.pdf	
+2008-12-17	India	26,2	91,15	112	112	http://web.oie.int/wahis/reports/en_fup_0000007617_20081218_170411.pdf	
+2008-12-17	India	26,35	90,38	399	399	http://web.oie.int/wahis/reports/en_fup_0000007617_20081218_170411.pdf	
+2008-12-17	Bangladesh	24,333	88,91	13	13	http://web.oie.int/wahis/reports/en_fup_0000007619_20081217_175202.pdf	
+2008-12-17	Bangladesh	24,333	88,91	10	10	http://web.oie.int/wahis/reports/en_fup_0000007619_20081217_175202.pdf	
+2008-12-17	Bangladesh	23,84	90,25	12000	12000	http://web.oie.int/wahis/reports/en_fup_0000007619_20081217_175202.pdf	
+2008-12-17	Bangladesh	23,8	90,35	880	880	http://web.oie.int/wahis/reports/en_fup_0000007619_20081217_175202.pdf	
+2008-12-17	Bangladesh	23,68	90,55	212	212	http://web.oie.int/wahis/reports/en_fup_0000007619_20081217_175202.pdf	
+2008-12-17	Bangladesh	23,91	90,3	200	200	http://web.oie.int/wahis/reports/en_fup_0000007619_20081217_175202.pdf	
+2008-12-17	Bangladesh	24,333	88,91	90	90	http://web.oie.int/wahis/reports/en_fup_0000007619_20081217_175202.pdf	
+2008-12-17	Bangladesh	23,79	90,29	319	319	http://web.oie.int/wahis/reports/en_fup_0000007619_20081217_175202.pdf	
+2008-12-19	India	26,2	91,15	324	324	http://web.oie.int/wahis/reports/en_fup_0000007624_20081223_171237.pdf	
+2008-12-19	India	26,2	91,15	682	682	http://web.oie.int/wahis/reports/en_fup_0000007624_20081223_171237.pdf	
+2008-12-19	India	26,5	90,39	18	18	http://web.oie.int/wahis/reports/en_fup_0000007624_20081223_171237.pdf	
+2008-12-19	India	26,2	91,15	112	112	http://web.oie.int/wahis/reports/en_fup_0000007624_20081223_171237.pdf	
+2008-12-19	India	26,35	90,38	399	399	http://web.oie.int/wahis/reports/en_fup_0000007624_20081223_171237.pdf	
+2008-12-26	China (People's Rep. of)	,	,	NaN	0	http://web.oie.int/wahis/reports/en_fup_0000007636_20081226_155206.pdf	
+2008-12-26	China (People's Rep. of)	,	32,84	NaN	0	http://web.oie.int/wahis/reports/en_fup_0000007636_20081226_155206.pdf	
+2008-12-29	Laos	20,3732	102,2722	247	197	http://web.oie.int/wahis/reports/en_fup_0000007639_20081229_121956.pdf	
+2008-12-29	Laos	20,4035	101,5803	23	23	http://web.oie.int/wahis/reports/en_fup_0000007639_20081229_121956.pdf	
+2008-12-30	Vietnam	9,3331	105,313	80	50	http://web.oie.int/wahis/reports/en_fup_0000007641_20081230_175219.pdf	
+2008-12-30	Vietnam	9,104654	104,839648	188	134	http://web.oie.int/wahis/reports/en_fup_0000007641_20081230_175219.pdf	
+2008-12-30	Vietnam	9,1353	105,1108	225	225	http://web.oie.int/wahis/reports/en_fup_0000007641_20081230_175219.pdf	
+2008-12-30	Vietnam	9,11198	104,890706	2523	2523	http://web.oie.int/wahis/reports/en_fup_0000007641_20081230_175219.pdf	
+2008-12-30	Vietnam	9,2027	105,3237	3550	3550	http://web.oie.int/wahis/reports/en_fup_0000007641_20081230_175219.pdf	
+2008-12-30	Vietnam	9,0843	105,0743	40	40	http://web.oie.int/wahis/reports/en_fup_0000007641_20081230_175219.pdf	
+2008-12-30	Vietnam	9,1501	105,0027	45	45	http://web.oie.int/wahis/reports/en_fup_0000007641_20081230_175219.pdf	
+2008-12-30	Vietnam	9,1132	105,0751	7	7	http://web.oie.int/wahis/reports/en_fup_0000007641_20081230_175219.pdf	
+2008-12-29	Hong Kong (P.R. China)	22,449	114,013	285	285	http://web.oie.int/wahis/reports/en_fup_0000007654_20090105_161005.pdf	
+2008-01-03	Israel	32,5195133375	34,9647465364	18	18	http://web.oie.int/wahis/reports/en_imm_0000006649_20080103_141956.pdf	
+2008-01-11	United Kingdom	50,6532	2,6025	3	3	http://web.oie.int/wahis/reports/en_imm_0000006675_20080111_152109.pdf	
+2008-01-15	India	,	,	35525	35525	http://web.oie.int/wahis/reports/en_imm_0000006678_20080115_150844.pdf	
+2008-01-15	India	25,3606	88,7228	261	261	http://web.oie.int/wahis/reports/en_imm_0000006678_20080115_150844.pdf	
+2008-01-16	Iran	36,65387	52,61894	14	14	http://web.oie.int/wahis/reports/en_imm_0000006685_20080116_161800.pdf	
+2008-01-21	Ukraine	45,52	34,24	173	173	http://web.oie.int/wahis/reports/en_imm_0000006698_20080121_121726.pdf	
+2008-01-22	Turkey	41,7193	32,3923	13	13	http://web.oie.int/wahis/reports/en_imm_0000006700_20080122_150424.pdf	
+2008-01-23	Thailand	15,9052	100,299	4085	4085	http://web.oie.int/wahis/reports/en_imm_0000006709_20080124_142512.pdf	
+2008-02-05	Hong Kong (P.R. China)	22,43	113,96	100	1	http://web.oie.int/wahis/reports/en_imm_0000006761_20080205_165713.pdf	
+2008-02-05	Hong Kong (P.R. China)	22,43	113,96	100	1	http://web.oie.int/wahis/reports/en_imm_0000006761_20080205_165713.pdf	
+2008-02-13	Laos	20,95	101,41	765	765	http://web.oie.int/wahis/reports/en_imm_0000006798_20080214_155545.pdf	
+2008-03-12	Vietnam	20,1803	105,3851	579	6	http://web.oie.int/wahis/reports/en_imm_0000006899_20080312_170313.pdf	
+2008-03-18	Turkey	40,869491	26,442036	22	22	http://web.oie.int/wahis/reports/en_imm_0000006907_20080318_173727.pdf	
+2008-03-31	Switzerland	47,16117	8,12324	6	1	http://web.oie.int/wahis/reports/en_imm_0000006917_20080331_092338.pdf	
+2008-04-02	Korea (Rep. of)	35,4948	126,5912	NaN	2380	http://web.oie.int/wahis/reports/en_imm_0000006934_20080402_162348.pdf	
+2008-04-29	Japan	40,1939	140,4549	NaN	4	http://web.oie.int/wahis/reports/en_imm_0000007003_20080429_132739.pdf	
+2008-06-05	United Kingdom	52,068843	1,470215	15000	10000	http://web.oie.int/wahis/reports/en_imm_0000007095_20080605_164925.pdf	
+2008-06-20	China (People's Rep. of)	22,29	112,5	3873	3873	http://web.oie.int/wahis/reports/en_imm_0000007136_20080620_145049.pdf	
+2008-06-26	Pakistan	34,1333	72,85	4000	4000	http://web.oie.int/wahis/reports/en_imm_0000007146_20080626_142343.pdf	
+2008-07-24	Nigeria	12,44144	4,20653	1	0	http://web.oie.int/wahis/reports/en_imm_0000007217_20080724_123058.pdf	
+2008-07-24	Nigeria	10,27512	11,1685	1	0	http://web.oie.int/wahis/reports/en_imm_0000007217_20080724_123058.pdf	
+2008-09-14	Laos	20,3732	102,2722	247	197	http://web.oie.int/wahis/reports/en_imm_0000007345_20080914_115357.pdf	
+2008-09-14	Laos	20,4035	101,5803	23	23	http://web.oie.int/wahis/reports/en_imm_0000007345_20080914_115357.pdf	
+2008-09-18	Togo	6,200039	1,385578	4131	4131	http://web.oie.int/wahis/reports/en_imm_0000007359_20080918_183308.pdf	
+2008-10-10	Germany	51,148034	14,885179	1	0	http://web.oie.int/wahis/reports/en_imm_0000007416_20081010_154629.pdf	
+2008-11-10	Thailand	17,1915	99,3339	5	5	http://web.oie.int/wahis/reports/en_imm_0000007502_20081110_210424.pdf	
+2008-11-13	Togo	6,200039	1,385578	4231	4231	http://web.oie.int/wahis/reports/en_imm_0000007519_20081103_111251.pdf	
+2008-11-28	India	26,2	91,15	324	324	http://web.oie.int/wahis/reports/en_imm_0000007566_20081128_154658.pdf	
+2008-12-12	Hong Kong (P.R. China)	22,449	114,013	285	285	http://web.oie.int/wahis/reports/en_imm_0000007609_20081212_130545.pdf	
+2008-12-19	China (People's Rep. of)	,	32,84	NaN	0	http://web.oie.int/wahis/reports/en_imm_0000007623_20081219_120841.pdf	
+2008-12-19	China (People's Rep. of)	,	,	NaN	0	http://web.oie.int/wahis/reports/en_imm_0000007623_20081219_120841.pdf	
+2008-12-25	Cambodia	11,4	104,88	120	120	http://web.oie.int/wahis/reports/en_imm_0000007635_20081225_154519.pdf	
+2008-12-01	Laos	20,95	101,41	765	765	http://web.oie.int/wahis/reports/oie_imm_20081205_135658_ENG.pdf	
+2008-12-01	Laos	21,2161	101,156	977	977	http://web.oie.int/wahis/reports/oie_imm_20081205_135658_ENG.pdf	
+2008-12-01	Laos	20,7445	101,3146	35	35	http://web.oie.int/wahis/reports/oie_imm_20081205_135658_ENG.pdf	
+2008-12-01	Laos	20,8474	101,3618	92	92	http://web.oie.int/wahis/reports/oie_imm_20081205_135658_ENG.pdf	
+2008-12-01	Laos	20,7231	101,2717	57	57	http://web.oie.int/wahis/reports/oie_imm_20081205_135658_ENG.pdf	

@@ -1,0 +1,129 @@
+                                                                                                                                                     Follow-up report No.: 2
+                                                                                                                              Report reference: , OIE Ref: 10121, Report Date: 02/01/2011, Country: Korea (Rep. of)
+
+
+
+
+Report Summary
+Disease                                                      Highly pathogenic avian influenza                                                                        Animal type                                        Terrestrial
+
+Causal Agent                                                 Highly pathogenic avian influenza virus                                                                  Serotype(s)                                        H5N1
+
+Clinical Signs                                               Yes                                                                                                      Reason                                             Reoccurrence of a listed disease
+
+Date of first confirmation of the event                      07/12/2010                                                                                               Date of Start of Event                             29/11/2010
+
+Date of report                                               02/01/2011                                                                                               Date Submitted To OIE                              02/01/2011
+
+Diagnosis                                                    Laboratory (basic), Laboratory (advanced)                                                                Date Of Last Occurrence                            15/05/2008
+
+Number Of Reported Outbreaks                                 Submitted= 6, Draft= 0                                                                                   Name of Sender of the report                       Dr Kiyoon Chang
+
+Address                                                      Quarantine Policy Division                                                                               Position                                               CVO & Director
+
+                                                             Food Safety & Consumer Affairs Policy Bureau                                                             Fax                                                (82-2) 504 94 27
+
+                                                             MIFAFF (Ministry of Food, Agriculture, Forestry and Fisheries)                                           Entered by                                         Dr Kiyoon Chang
+
+                                                             Government Complex Gwacheon
+
+                                                             Jungang-Dong 1, Gwacheon
+
+                                                             Gyeonggi -Do 417-719 Gyeonggi -Do
+
+Telephone                                                    (82-2) 500 21 15
+
+Email                                                        kchangy@korea.kr
+
+
+
+
+Outbreak (other report - submitted)
+Province                            District                          Sub-district                       Unit Type                       Location                           Latitude                 Longitude                         Start date                    End Date
+JEOLLABUK-DO                        Iksan city                        Chunpo-myun                        Not applicable                  Chunpo-ri                          35,53469                 126,569188 29/11/2010                           07/12/2010
+Species                                   Measuring units                                                                 Susceptible                      Cases                            Deaths                            Destroyed                            Slaughtered
+Wild species                              Animals                                                                                 39                           1                                0                                       0                                   0
+
+Affected Population                                          Anas platyrhynchos (mallard duck)
+
+
+
+
+Outbreak (other report - submitted)
+Province                                       District                         Sub-district                    Unit Type                     Location                           Latitude               Longitude                       Start date                   End Date
+CHUNGCHEONGNAM-DO                              Seosan city                      Buseok-myun                     Not applicable                Chang-ri                        36,380855                126,221268 29/11/2010                          10/12/2010
+Species                                   Measuring units                                                                 Susceptible                      Cases                            Deaths                            Destroyed                            Slaughtered
+Wild species                              Animals                                                                                  ...                         2                                2                                       0                                   0
+
+Affected Population                                          Bubo bubo (eagle owl)
+
+
+
+
+Printed on: Mon Jan 3 15:42:06 Paris, Madrid 2011                                                                                                         Page 1/4
+
+Outbreak (this report - submitted)
+Province                            District                         Sub-district                      Unit Type                         Location                                     Latitude                    Longitude                         Start date                        End Date
+JEOLLANAM-DO                        Haenam-gun                       Sani-myun                         Not applicable                    Dukho-ri                                     34,6306                      126,4644 22/12/2010
+Species                                   Measuring units                                                               Susceptible                             Cases                                 Deaths                               Destroyed                               Slaughtered
+Wild species                              Animals                                                                                 74                                20                                    20                                         0                                         0
+
+Affected Population                                       Anas platyrhynchos (mallard duck) found dead
+
+
+
+
+Outbreak (this report - submitted)
+Province                                   District                       Sub-district                           Unit Type                    Location                                   Latitude                   Longitude                        Start date                       End Date
+GYEONGSANGNAM-DO                           Sacheon city                   Yonghyeon-myun                         Not applicable               Jumoon-ri                                          35                  128,0508 26/12/2010
+Species                                   Measuring units                                                               Susceptible                             Cases                                 Deaths                               Destroyed                               Slaughtered
+Wild species                              Animals                                                                                 5                                  1                                     1                                         0                                         0
+
+Affected Population                                       Anas platyrhynchos (mallard duck) found dead
+
+
+
+
+Outbreak (this report - submitted)
+Province                            District                       Sub-district                          Unit Type                     Location                                      Latitude                    Longitude                          Start date                        End Date
+JEOLLABUK-DO                        Iksan city                     Mangseong-myun                        Farm                          Muhyeong-ri                                 36,064585                    127,023646 29/12/2010
+Species                                  Measuring units                                                                Susceptible                            Cases                                  Deaths                               Destroyed                               Slaughtered
+Birds                                    Animals                                                                             17000                                  5                                     5                                      16995                                         0
+
+Affected Population                                       Chickens
+
+
+
+
+Outbreak (this report - submitted)
+Province                                       District                      Sub-district                        Unit Type                 Location                                     Latitude                   Longitude                         Start date                       End Date
+CHUNGCHEONGNAM-DO                              Cheonan city                  Poongse-myun                        Farm                      Poongseo-ri                                36,430021                   127,072233 29/12/2010
+Species                                  Measuring units                                                                Susceptible                            Cases                                  Deaths                               Destroyed                               Slaughtered
+Birds                                    Animals                                                                             10850                                  1                                     1                                      10849                                         0
+
+Affected Population                                       A duck
+
+
+
+
+Outbreak summary: Total outbreaks = 6 (Submitted)
+Species                                                                               Susceptible                                         Cases                                     Deaths                                         Destroyed                                       Slaughtered
+Wild species                                                                                 118                                              24                                         23                                                  0                                                 0
+Birds                                                                                       27850                                                 6                                       6                                             27844                                                  0
+
+Epidemiology
+Epidemiological comments
+
+Dead bodies of wild mallard ducks were reported to the local authorities. Test in the NVRQS detected H5N1 HPAI virus antigen from some samples. The area within 10km radius from the detection spot was put under movement control. Disinfection and clinical surveillance in that area has been
+
+intensified.
+
+There were also notifications about suspected HPAI cases from farms. Those were proved as HPAI virus H5N1 subtype in the NVRQS. The poultry in the affected farms were culled. Disinfection and clinical surveillance in the area within 10km radius from the affected farms were enhanced.
+
+Source of the outbreak(s) or origin of infection          • Unknown or inconclusive
+
+
+
+Follow-up report No.: 2. Report reference: , OIE Ref: 10121, Report Date: 02/01/2011, Country: Korea (Rep. of)
+Printed on: Mon Jan 3 15:42:07 Paris, Madrid 2011                                                                                                              Page 2/4
+

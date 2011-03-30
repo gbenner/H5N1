@@ -1,0 +1,246 @@
+report_date	country	latitude	longitude	cases	deaths	uri
+2011-01-02	Korea (Rep. of)	35,53469	126,569188	39	1	http://web.oie.int/wahis/reports/en_fup_0000010121_20110102_154206.pdf	
+2011-01-02	Korea (Rep. of)	36,380855	126,221268	NaN	2	http://web.oie.int/wahis/reports/en_fup_0000010121_20110102_154206.pdf	
+2011-01-02	Korea (Rep. of)	34,6306	126,4644	74	20	http://web.oie.int/wahis/reports/en_fup_0000010121_20110102_154206.pdf	
+2011-01-02	Korea (Rep. of)	36,064585	127,023646	5	5	http://web.oie.int/wahis/reports/en_fup_0000010121_20110102_154206.pdf	
+2011-01-02	Korea (Rep. of)	36,430021	127,072233	1	1	http://web.oie.int/wahis/reports/en_fup_0000010121_20110102_154206.pdf	
+2011-01-07	Korea (Rep. of)	35,53469	126,569188	39	1	http://web.oie.int/wahis/reports/en_fup_0000010137_20110107_161832.pdf	
+2011-01-07	Korea (Rep. of)	36,380855	126,221268	NaN	2	http://web.oie.int/wahis/reports/en_fup_0000010137_20110107_161832.pdf	
+2011-01-07	Korea (Rep. of)	34,6306	126,4644	74	20	http://web.oie.int/wahis/reports/en_fup_0000010137_20110107_161832.pdf	
+2011-01-07	Korea (Rep. of)	36,064585	127,023646	5	5	http://web.oie.int/wahis/reports/en_fup_0000010137_20110107_161832.pdf	
+2011-01-07	Korea (Rep. of)	36,430021	127,072233	1	1	http://web.oie.int/wahis/reports/en_fup_0000010137_20110107_161832.pdf	
+2011-01-07	Korea (Rep. of)	34,590794	128,034907	NaN	1	http://web.oie.int/wahis/reports/en_fup_0000010137_20110107_161832.pdf	
+2011-01-17	Korea (Rep. of)	35,53469	126,569188	39	1	http://web.oie.int/wahis/reports/en_fup_0000010145_20110117_154533.pdf	
+2011-01-17	Korea (Rep. of)	36,380855	126,221268	NaN	2	http://web.oie.int/wahis/reports/en_fup_0000010145_20110117_154533.pdf	
+2011-01-17	Korea (Rep. of)	34,6306	126,4644	74	20	http://web.oie.int/wahis/reports/en_fup_0000010145_20110117_154533.pdf	
+2011-01-17	Korea (Rep. of)	36,064585	127,023646	5	5	http://web.oie.int/wahis/reports/en_fup_0000010145_20110117_154533.pdf	
+2011-01-17	Korea (Rep. of)	36,430021	127,072233	1	1	http://web.oie.int/wahis/reports/en_fup_0000010145_20110117_154533.pdf	
+2011-01-17	Korea (Rep. of)	34,590794	128,034907	NaN	1	http://web.oie.int/wahis/reports/en_fup_0000010145_20110117_154533.pdf	
+2011-01-10	Bangladesh	24,333	88,91	13	13	http://web.oie.int/wahis/reports/en_fup_0000010146_20110110_121831.pdf	
+2011-01-10	Bangladesh	24,333	88,91	10	10	http://web.oie.int/wahis/reports/en_fup_0000010146_20110110_121831.pdf	
+2011-01-10	Bangladesh	23,84	90,25	12000	12000	http://web.oie.int/wahis/reports/en_fup_0000010146_20110110_121831.pdf	
+2011-01-10	Bangladesh	23,8	90,35	880	880	http://web.oie.int/wahis/reports/en_fup_0000010146_20110110_121831.pdf	
+2011-01-10	Bangladesh	23,91	90,3	200	200	http://web.oie.int/wahis/reports/en_fup_0000010146_20110110_121831.pdf	
+2011-01-10	Bangladesh	23,79	90,29	319	319	http://web.oie.int/wahis/reports/en_fup_0000010146_20110110_121831.pdf	
+2011-01-10	Bangladesh	23,68	90,55	212	212	http://web.oie.int/wahis/reports/en_fup_0000010146_20110110_121831.pdf	
+2011-01-10	Bangladesh	24,333	88,91	90	90	http://web.oie.int/wahis/reports/en_fup_0000010146_20110110_121831.pdf	
+2011-01-19	Japan	36,747838	137,022638	14	4	http://web.oie.int/wahis/reports/en_fup_0000010168_20110119_180927.pdf	
+2011-01-19	Japan	32,102814	130,274954	NaN	5	http://web.oie.int/wahis/reports/en_fup_0000010168_20110119_180927.pdf	
+2011-01-19	Japan	32,102814	130,274954	NaN	1	http://web.oie.int/wahis/reports/en_fup_0000010168_20110119_180927.pdf	
+2011-01-19	Japan	37,396142	140,368409	NaN	2	http://web.oie.int/wahis/reports/en_fup_0000010168_20110119_180927.pdf	
+2011-01-23	Japan	36,747838	137,022638	14	4	http://web.oie.int/wahis/reports/en_fup_0000010184_20110125_190311.pdf	
+2011-01-23	Japan	32,102814	130,274954	NaN	5	http://web.oie.int/wahis/reports/en_fup_0000010184_20110125_190311.pdf	
+2011-01-23	Japan	32,102814	130,274954	NaN	1	http://web.oie.int/wahis/reports/en_fup_0000010184_20110125_190311.pdf	
+2011-01-23	Japan	37,396142	140,368409	NaN	2	http://web.oie.int/wahis/reports/en_fup_0000010184_20110125_190311.pdf	
+2011-01-23	Japan	43,047314	145,016441	NaN	5	http://web.oie.int/wahis/reports/en_fup_0000010184_20110125_190311.pdf	
+2011-01-23	Japan	35,432211	133,251157	57	57	http://web.oie.int/wahis/reports/en_fup_0000010185_20110125_190048.pdf	
+2011-01-23	Japan	35,443384	133,30569	NaN	1	http://web.oie.int/wahis/reports/en_fup_0000010185_20110125_190048.pdf	
+2011-01-23	Japan	32,050989	131,431375	36	36	http://web.oie.int/wahis/reports/en_fup_0000010185_20110125_190048.pdf	
+2011-01-23	Japan	32,0937	131,48	20	20	http://web.oie.int/wahis/reports/en_fup_0000010185_20110125_190048.pdf	
+2011-01-28	Myanmar	20,1448	92,8784	500	500	http://web.oie.int/wahis/reports/en_fup_0000010191_20110128_165648.pdf	
+2011-01-28	Myanmar	20,1585	92,8429	6198	0	http://web.oie.int/wahis/reports/en_fup_0000010191_20110128_165648.pdf	
+2011-01-28	Myanmar	20,1471	92,8698	3980	0	http://web.oie.int/wahis/reports/en_fup_0000010191_20110128_165648.pdf	
+2011-01-28	Myanmar	20,1471	92,8698	10530	0	http://web.oie.int/wahis/reports/en_fup_0000010191_20110128_165648.pdf	
+2011-01-28	Myanmar	20,1471	92,8698	11570	0	http://web.oie.int/wahis/reports/en_fup_0000010191_20110128_165648.pdf	
+2011-01-28	Myanmar	20,1425	92,874	9750	0	http://web.oie.int/wahis/reports/en_fup_0000010191_20110128_165648.pdf	
+2011-01-28	Myanmar	20,148	92,8667	11100	0	http://web.oie.int/wahis/reports/en_fup_0000010191_20110128_165648.pdf	
+2011-01-28	Hong Kong (SAR - PRC)	22,478058	114,046247	NaN	1	http://web.oie.int/wahis/reports/en_fup_0000010192_20110128_163207.pdf	
+2011-01-28	Hong Kong (SAR - PRC)	22,258305	113,863918	NaN	1	http://web.oie.int/wahis/reports/en_fup_0000010192_20110128_163207.pdf	
+2011-01-28	Hong Kong (SAR - PRC)	22,304322	113,898322	NaN	1	http://web.oie.int/wahis/reports/en_fup_0000010192_20110128_163207.pdf	
+2011-01-28	Hong Kong (SAR - PRC)	22,25846	113,86325	1	1	http://web.oie.int/wahis/reports/en_fup_0000010192_20110128_163207.pdf	
+2011-01-28	Korea (Rep. of)	35,53469	126,569188	39	1	http://web.oie.int/wahis/reports/en_fup_0000010195_20110128_165458.pdf	
+2011-01-28	Korea (Rep. of)	36,380855	126,221268	NaN	2	http://web.oie.int/wahis/reports/en_fup_0000010195_20110128_165458.pdf	
+2011-01-28	Korea (Rep. of)	34,6306	126,4644	74	20	http://web.oie.int/wahis/reports/en_fup_0000010195_20110128_165458.pdf	
+2011-01-28	Korea (Rep. of)	36,064585	127,023646	5	5	http://web.oie.int/wahis/reports/en_fup_0000010195_20110128_165458.pdf	
+2011-01-28	Korea (Rep. of)	36,430021	127,072233	1	1	http://web.oie.int/wahis/reports/en_fup_0000010195_20110128_165458.pdf	
+2011-01-28	Korea (Rep. of)	34,590794	128,034907	NaN	1	http://web.oie.int/wahis/reports/en_fup_0000010195_20110128_165458.pdf	
+2011-01-31	Hong Kong (SAR - PRC)	22,478058	114,046247	NaN	1	http://web.oie.int/wahis/reports/en_fup_0000010202_20110202_154953.pdf	
+2011-01-31	Hong Kong (SAR - PRC)	22,258305	113,863918	NaN	1	http://web.oie.int/wahis/reports/en_fup_0000010202_20110202_154953.pdf	
+2011-01-31	Hong Kong (SAR - PRC)	22,304322	113,898322	NaN	1	http://web.oie.int/wahis/reports/en_fup_0000010202_20110202_154953.pdf	
+2011-01-31	Hong Kong (SAR - PRC)	22,25846	113,86325	1	1	http://web.oie.int/wahis/reports/en_fup_0000010202_20110202_154953.pdf	
+2011-01-31	Hong Kong (SAR - PRC)	22,407649	113,96912	2	2	http://web.oie.int/wahis/reports/en_fup_0000010202_20110202_154953.pdf	
+2011-02-02	Japan	35,432211	133,251157	57	57	http://web.oie.int/wahis/reports/en_fup_0000010205_20110202_180545.pdf	
+2011-02-02	Japan	35,443384	133,30569	NaN	1	http://web.oie.int/wahis/reports/en_fup_0000010205_20110202_180545.pdf	
+2011-02-02	Japan	32,050989	131,431375	36	36	http://web.oie.int/wahis/reports/en_fup_0000010205_20110202_180545.pdf	
+2011-02-02	Japan	32,0937	131,48	20	20	http://web.oie.int/wahis/reports/en_fup_0000010205_20110202_180545.pdf	
+2011-02-02	Japan	32,088452	130,297907	84	84	http://web.oie.int/wahis/reports/en_fup_0000010205_20110202_180545.pdf	
+2011-02-02	Japan	34,711628	137,448033	120	120	http://web.oie.int/wahis/reports/en_fup_0000010205_20110202_180545.pdf	
+2011-02-02	Japan	32,271552	131,539641	300	300	http://web.oie.int/wahis/reports/en_fup_0000010205_20110202_180545.pdf	
+2011-02-04	Japan	36,747838	137,022638	14	4	http://web.oie.int/wahis/reports/en_fup_0000010207_20110204_150807.pdf	
+2011-02-04	Japan	32,102814	130,274954	NaN	5	http://web.oie.int/wahis/reports/en_fup_0000010207_20110204_150807.pdf	
+2011-02-04	Japan	32,102814	130,274954	NaN	1	http://web.oie.int/wahis/reports/en_fup_0000010207_20110204_150807.pdf	
+2011-02-04	Japan	37,396142	140,368409	NaN	2	http://web.oie.int/wahis/reports/en_fup_0000010207_20110204_150807.pdf	
+2011-02-04	Japan	37,398532	140,364192	NaN	3	http://web.oie.int/wahis/reports/en_fup_0000010207_20110204_150807.pdf	
+2011-02-04	Japan	34,79506	135,398083	NaN	2	http://web.oie.int/wahis/reports/en_fup_0000010207_20110204_150807.pdf	
+2011-02-04	Japan	43,047314	145,016441	NaN	5	http://web.oie.int/wahis/reports/en_fup_0000010207_20110204_150807.pdf	
+2011-02-03	Bangladesh	24,333	88,91	13	13	http://web.oie.int/wahis/reports/en_fup_0000010212_20110203_164313.pdf	
+2011-02-03	Bangladesh	24,333	88,91	10	10	http://web.oie.int/wahis/reports/en_fup_0000010212_20110203_164313.pdf	
+2011-02-03	Bangladesh	23,84	90,25	12000	12000	http://web.oie.int/wahis/reports/en_fup_0000010212_20110203_164313.pdf	
+2011-02-03	Bangladesh	23,8	90,35	880	880	http://web.oie.int/wahis/reports/en_fup_0000010212_20110203_164313.pdf	
+2011-02-03	Bangladesh	23,91	90,3	200	200	http://web.oie.int/wahis/reports/en_fup_0000010212_20110203_164313.pdf	
+2011-02-03	Bangladesh	24,333	88,91	90	90	http://web.oie.int/wahis/reports/en_fup_0000010212_20110203_164313.pdf	
+2011-02-03	Bangladesh	23,79	90,29	319	319	http://web.oie.int/wahis/reports/en_fup_0000010212_20110203_164313.pdf	
+2011-02-03	Bangladesh	23,68	90,55	212	212	http://web.oie.int/wahis/reports/en_fup_0000010212_20110203_164313.pdf	
+2011-02-04	Myanmar	20,1448	92,8784	500	500	http://web.oie.int/wahis/reports/en_fup_0000010214_20110204_150059.pdf	
+2011-02-04	Myanmar	20,1585	92,8429	6198	0	http://web.oie.int/wahis/reports/en_fup_0000010214_20110204_150059.pdf	
+2011-02-04	Myanmar	20,1471	92,8698	3980	0	http://web.oie.int/wahis/reports/en_fup_0000010214_20110204_150059.pdf	
+2011-02-04	Myanmar	20,1471	92,8698	10530	0	http://web.oie.int/wahis/reports/en_fup_0000010214_20110204_150059.pdf	
+2011-02-04	Myanmar	20,1471	92,8698	11570	0	http://web.oie.int/wahis/reports/en_fup_0000010214_20110204_150059.pdf	
+2011-02-04	Myanmar	20,1425	92,874	9750	0	http://web.oie.int/wahis/reports/en_fup_0000010214_20110204_150059.pdf	
+2011-02-04	Myanmar	20,148	92,8667	11100	0	http://web.oie.int/wahis/reports/en_fup_0000010214_20110204_150059.pdf	
+2011-02-04	Myanmar	22,9444	95,4089	459	459	http://web.oie.int/wahis/reports/en_fup_0000010214_20110204_150059.pdf	
+2011-02-07	Hong Kong (SAR - PRC)	22,478058	114,046247	NaN	1	http://web.oie.int/wahis/reports/en_fup_0000010224_20110211_123339.pdf	
+2011-02-07	Hong Kong (SAR - PRC)	22,258305	113,863918	NaN	1	http://web.oie.int/wahis/reports/en_fup_0000010224_20110211_123339.pdf	
+2011-02-07	Hong Kong (SAR - PRC)	22,304322	113,898322	NaN	1	http://web.oie.int/wahis/reports/en_fup_0000010224_20110211_123339.pdf	
+2011-02-07	Hong Kong (SAR - PRC)	22,25846	113,86325	1	1	http://web.oie.int/wahis/reports/en_fup_0000010224_20110211_123339.pdf	
+2011-02-07	Hong Kong (SAR - PRC)	22,407649	113,96912	2	2	http://web.oie.int/wahis/reports/en_fup_0000010224_20110211_123339.pdf	
+2011-02-07	Hong Kong (SAR - PRC)	22,259716	113,863142	1	1	http://web.oie.int/wahis/reports/en_fup_0000010224_20110211_123339.pdf	
+2011-02-09	Japan	35,432211	133,251157	57	57	http://web.oie.int/wahis/reports/en_fup_0000010225_20110209_174916.pdf	
+2011-02-09	Japan	35,443384	133,30569	NaN	1	http://web.oie.int/wahis/reports/en_fup_0000010225_20110209_174916.pdf	
+2011-02-09	Japan	32,050989	131,431375	36	36	http://web.oie.int/wahis/reports/en_fup_0000010225_20110209_174916.pdf	
+2011-02-09	Japan	32,0937	131,48	20	20	http://web.oie.int/wahis/reports/en_fup_0000010225_20110209_174916.pdf	
+2011-02-09	Japan	32,088452	130,297907	84	84	http://web.oie.int/wahis/reports/en_fup_0000010225_20110209_174916.pdf	
+2011-02-09	Japan	34,711628	137,448033	120	120	http://web.oie.int/wahis/reports/en_fup_0000010225_20110209_174916.pdf	
+2011-02-09	Japan	32,271552	131,539641	300	300	http://web.oie.int/wahis/reports/en_fup_0000010225_20110209_174916.pdf	
+2011-02-14	Japan	32,102814	130,274954	NaN	5	http://web.oie.int/wahis/reports/en_fup_0000010242_20110214_165728.pdf	
+2011-02-14	Japan	36,747838	137,022638	14	4	http://web.oie.int/wahis/reports/en_fup_0000010242_20110214_165728.pdf	
+2011-02-14	Japan	32,102814	130,274954	NaN	1	http://web.oie.int/wahis/reports/en_fup_0000010242_20110214_165728.pdf	
+2011-02-14	Japan	37,396142	140,368409	NaN	2	http://web.oie.int/wahis/reports/en_fup_0000010242_20110214_165728.pdf	
+2011-02-14	Japan	37,398532	140,364192	NaN	3	http://web.oie.int/wahis/reports/en_fup_0000010242_20110214_165728.pdf	
+2011-02-14	Japan	34,79506	135,398083	NaN	2	http://web.oie.int/wahis/reports/en_fup_0000010242_20110214_165728.pdf	
+2011-02-14	Japan	43,047314	145,016441	NaN	5	http://web.oie.int/wahis/reports/en_fup_0000010242_20110214_165728.pdf	
+2011-02-11	Korea (Rep. of)	36,380855	126,221268	NaN	2	http://web.oie.int/wahis/reports/en_fup_0000010246_20110211_124140.pdf	
+2011-02-11	Korea (Rep. of)	35,53469	126,569188	39	1	http://web.oie.int/wahis/reports/en_fup_0000010246_20110211_124140.pdf	
+2011-02-11	Korea (Rep. of)	34,6306	126,4644	74	20	http://web.oie.int/wahis/reports/en_fup_0000010246_20110211_124140.pdf	
+2011-02-11	Korea (Rep. of)	36,430021	127,072233	1	1	http://web.oie.int/wahis/reports/en_fup_0000010246_20110211_124140.pdf	
+2011-02-11	Korea (Rep. of)	36,064585	127,023646	5	5	http://web.oie.int/wahis/reports/en_fup_0000010246_20110211_124140.pdf	
+2011-02-11	Korea (Rep. of)	34,590794	128,034907	NaN	1	http://web.oie.int/wahis/reports/en_fup_0000010246_20110211_124140.pdf	
+2011-02-13	Bangladesh	24,333	88,91	13	13	http://web.oie.int/wahis/reports/en_fup_0000010253_20110213_174221.pdf	
+2011-02-13	Bangladesh	24,333	88,91	10	10	http://web.oie.int/wahis/reports/en_fup_0000010253_20110213_174221.pdf	
+2011-02-13	Bangladesh	23,84	90,25	12000	12000	http://web.oie.int/wahis/reports/en_fup_0000010253_20110213_174221.pdf	
+2011-02-13	Bangladesh	23,8	90,35	880	880	http://web.oie.int/wahis/reports/en_fup_0000010253_20110213_174221.pdf	
+2011-02-13	Bangladesh	23,68	90,55	212	212	http://web.oie.int/wahis/reports/en_fup_0000010253_20110213_174221.pdf	
+2011-02-13	Bangladesh	23,91	90,3	200	200	http://web.oie.int/wahis/reports/en_fup_0000010253_20110213_174221.pdf	
+2011-02-13	Bangladesh	23,79	90,29	319	319	http://web.oie.int/wahis/reports/en_fup_0000010253_20110213_174221.pdf	
+2011-02-13	Bangladesh	24,333	88,91	90	90	http://web.oie.int/wahis/reports/en_fup_0000010253_20110213_174221.pdf	
+2011-02-17	Japan	35,432211	133,251157	57	57	http://web.oie.int/wahis/reports/en_fup_0000010261_20110217_123015.pdf	
+2011-02-17	Japan	35,443384	133,30569	NaN	1	http://web.oie.int/wahis/reports/en_fup_0000010261_20110217_123015.pdf	
+2011-02-17	Japan	32,050989	131,431375	36	36	http://web.oie.int/wahis/reports/en_fup_0000010261_20110217_123015.pdf	
+2011-02-17	Japan	32,0937	131,48	20	20	http://web.oie.int/wahis/reports/en_fup_0000010261_20110217_123015.pdf	
+2011-02-17	Japan	32,088452	130,297907	84	84	http://web.oie.int/wahis/reports/en_fup_0000010261_20110217_123015.pdf	
+2011-02-17	Japan	34,711628	137,448033	120	120	http://web.oie.int/wahis/reports/en_fup_0000010261_20110217_123015.pdf	
+2011-02-17	Japan	32,271552	131,539641	300	300	http://web.oie.int/wahis/reports/en_fup_0000010261_20110217_123015.pdf	
+2011-02-18	Korea (Rep. of)	36,380855	126,221268	NaN	2	http://web.oie.int/wahis/reports/en_fup_0000010268_20110218_110140.pdf	
+2011-02-18	Korea (Rep. of)	35,53469	126,569188	39	1	http://web.oie.int/wahis/reports/en_fup_0000010268_20110218_110140.pdf	
+2011-02-18	Korea (Rep. of)	34,6306	126,4644	74	20	http://web.oie.int/wahis/reports/en_fup_0000010268_20110218_110140.pdf	
+2011-02-18	Korea (Rep. of)	36,430021	127,072233	1	1	http://web.oie.int/wahis/reports/en_fup_0000010268_20110218_110140.pdf	
+2011-02-18	Korea (Rep. of)	36,064585	127,023646	5	5	http://web.oie.int/wahis/reports/en_fup_0000010268_20110218_110140.pdf	
+2011-02-18	Korea (Rep. of)	34,590794	128,034907	NaN	1	http://web.oie.int/wahis/reports/en_fup_0000010268_20110218_110140.pdf	
+2011-02-24	Japan	32,102814	130,274954	NaN	5	http://web.oie.int/wahis/reports/en_fup_0000010281_20110224_113845.pdf	
+2011-02-24	Japan	36,747838	137,022638	14	4	http://web.oie.int/wahis/reports/en_fup_0000010281_20110224_113845.pdf	
+2011-02-24	Japan	32,102814	130,274954	NaN	1	http://web.oie.int/wahis/reports/en_fup_0000010281_20110224_113845.pdf	
+2011-02-24	Japan	37,396142	140,368409	NaN	2	http://web.oie.int/wahis/reports/en_fup_0000010281_20110224_113845.pdf	
+2011-02-24	Japan	37,398532	140,364192	NaN	3	http://web.oie.int/wahis/reports/en_fup_0000010281_20110224_113845.pdf	
+2011-02-24	Japan	34,79506	135,398083	NaN	2	http://web.oie.int/wahis/reports/en_fup_0000010281_20110224_113845.pdf	
+2011-02-24	Japan	43,047314	145,016441	NaN	5	http://web.oie.int/wahis/reports/en_fup_0000010281_20110224_113845.pdf	
+2011-02-23	Vietnam	9,3331	105,313	80	50	http://web.oie.int/wahis/reports/en_fup_0000010284_20110223_122313.pdf	
+2011-02-23	Vietnam	9,104654	104,839648	188	134	http://web.oie.int/wahis/reports/en_fup_0000010284_20110223_122313.pdf	
+2011-02-23	Vietnam	9,1353	105,1108	225	225	http://web.oie.int/wahis/reports/en_fup_0000010284_20110223_122313.pdf	
+2011-02-23	Vietnam	9,2027	105,3237	3550	3550	http://web.oie.int/wahis/reports/en_fup_0000010284_20110223_122313.pdf	
+2011-02-23	Vietnam	9,11198	104,890706	2523	2523	http://web.oie.int/wahis/reports/en_fup_0000010284_20110223_122313.pdf	
+2011-02-23	Vietnam	9,0843	105,0743	40	40	http://web.oie.int/wahis/reports/en_fup_0000010284_20110223_122313.pdf	
+2011-02-23	Vietnam	9,3704	105,3006	200	120	http://web.oie.int/wahis/reports/en_fup_0000010284_20110223_122313.pdf	
+2011-02-23	Vietnam	9,1501	105,0027	45	45	http://web.oie.int/wahis/reports/en_fup_0000010284_20110223_122313.pdf	
+2011-02-24	Japan	35,432211	133,251157	57	57	http://web.oie.int/wahis/reports/en_fup_0000010285_20110224_182051.pdf	
+2011-02-24	Japan	35,443384	133,30569	NaN	1	http://web.oie.int/wahis/reports/en_fup_0000010285_20110224_182051.pdf	
+2011-02-24	Japan	32,050989	131,431375	36	36	http://web.oie.int/wahis/reports/en_fup_0000010285_20110224_182051.pdf	
+2011-02-24	Japan	32,0937	131,48	20	20	http://web.oie.int/wahis/reports/en_fup_0000010285_20110224_182051.pdf	
+2011-02-24	Japan	32,088452	130,297907	84	84	http://web.oie.int/wahis/reports/en_fup_0000010285_20110224_182051.pdf	
+2011-02-24	Japan	34,711628	137,448033	120	120	http://web.oie.int/wahis/reports/en_fup_0000010285_20110224_182051.pdf	
+2011-02-24	Japan	32,271552	131,539641	300	300	http://web.oie.int/wahis/reports/en_fup_0000010285_20110224_182051.pdf	
+2011-02-24	Bangladesh	24,333	88,91	13	13	http://web.oie.int/wahis/reports/en_fup_0000010287_20110224_181623.pdf	
+2011-02-24	Bangladesh	24,333	88,91	10	10	http://web.oie.int/wahis/reports/en_fup_0000010287_20110224_181623.pdf	
+2011-02-24	Bangladesh	23,84	90,25	12000	12000	http://web.oie.int/wahis/reports/en_fup_0000010287_20110224_181623.pdf	
+2011-02-24	Bangladesh	23,8	90,35	880	880	http://web.oie.int/wahis/reports/en_fup_0000010287_20110224_181623.pdf	
+2011-02-24	Bangladesh	23,68	90,55	212	212	http://web.oie.int/wahis/reports/en_fup_0000010287_20110224_181623.pdf	
+2011-02-24	Bangladesh	23,91	90,3	200	200	http://web.oie.int/wahis/reports/en_fup_0000010287_20110224_181623.pdf	
+2011-02-24	Bangladesh	23,79	90,29	319	319	http://web.oie.int/wahis/reports/en_fup_0000010287_20110224_181623.pdf	
+2011-02-24	Bangladesh	24,333	88,91	90	90	http://web.oie.int/wahis/reports/en_fup_0000010287_20110224_181623.pdf	
+2011-03-04	Hong Kong (SAR - PRC)	22,478058	114,046247	NaN	1	http://web.oie.int/wahis/reports/en_fup_0000010289_20110304_170141.pdf	
+2011-03-04	Hong Kong (SAR - PRC)	22,258305	113,863918	NaN	1	http://web.oie.int/wahis/reports/en_fup_0000010289_20110304_170141.pdf	
+2011-03-04	Hong Kong (SAR - PRC)	22,304322	113,898322	NaN	1	http://web.oie.int/wahis/reports/en_fup_0000010289_20110304_170141.pdf	
+2011-03-04	Hong Kong (SAR - PRC)	22,25846	113,86325	1	1	http://web.oie.int/wahis/reports/en_fup_0000010289_20110304_170141.pdf	
+2011-03-04	Hong Kong (SAR - PRC)	22,407649	113,96912	2	2	http://web.oie.int/wahis/reports/en_fup_0000010289_20110304_170141.pdf	
+2011-03-04	Hong Kong (SAR - PRC)	22,259716	113,863142	1	1	http://web.oie.int/wahis/reports/en_fup_0000010289_20110304_170141.pdf	
+2011-03-04	Hong Kong (SAR - PRC)	22,28221	113,89404	1	1	http://web.oie.int/wahis/reports/en_fup_0000010289_20110304_170141.pdf	
+2011-03-03	Japan	32,102814	130,274954	NaN	5	http://web.oie.int/wahis/reports/en_fup_0000010298_20110303_161716.pdf	
+2011-03-03	Japan	36,747838	137,022638	14	4	http://web.oie.int/wahis/reports/en_fup_0000010298_20110303_161716.pdf	
+2011-03-03	Japan	32,102814	130,274954	NaN	1	http://web.oie.int/wahis/reports/en_fup_0000010298_20110303_161716.pdf	
+2011-03-03	Japan	37,396142	140,368409	NaN	2	http://web.oie.int/wahis/reports/en_fup_0000010298_20110303_161716.pdf	
+2011-03-03	Japan	37,398532	140,364192	NaN	3	http://web.oie.int/wahis/reports/en_fup_0000010298_20110303_161716.pdf	
+2011-03-03	Japan	34,79506	135,398083	NaN	2	http://web.oie.int/wahis/reports/en_fup_0000010298_20110303_161716.pdf	
+2011-03-03	Japan	43,047314	145,016441	NaN	5	http://web.oie.int/wahis/reports/en_fup_0000010298_20110303_161716.pdf	
+2011-03-04	Korea (Rep. of)	36,380855	126,221268	NaN	2	http://web.oie.int/wahis/reports/en_fup_0000010308_20110304_163419.pdf	
+2011-03-04	Korea (Rep. of)	35,53469	126,569188	39	1	http://web.oie.int/wahis/reports/en_fup_0000010308_20110304_163419.pdf	
+2011-03-04	Korea (Rep. of)	34,6306	126,4644	74	20	http://web.oie.int/wahis/reports/en_fup_0000010308_20110304_163419.pdf	
+2011-03-04	Korea (Rep. of)	36,430021	127,072233	1	1	http://web.oie.int/wahis/reports/en_fup_0000010308_20110304_163419.pdf	
+2011-03-04	Korea (Rep. of)	36,064585	127,023646	5	5	http://web.oie.int/wahis/reports/en_fup_0000010308_20110304_163419.pdf	
+2011-03-04	Korea (Rep. of)	34,590794	128,034907	NaN	1	http://web.oie.int/wahis/reports/en_fup_0000010308_20110304_163419.pdf	
+2011-03-04	Korea (Rep. of)	34,503699	126,354525	4500	4500	http://web.oie.int/wahis/reports/en_fup_0000010308_20110304_163419.pdf	
+2011-03-04	Myanmar	20,1448	92,8784	500	500	http://web.oie.int/wahis/reports/en_fup_0000010317_20110304_172427.pdf	
+2011-03-04	Myanmar	20,1585	92,8429	6198	0	http://web.oie.int/wahis/reports/en_fup_0000010317_20110304_172427.pdf	
+2011-03-04	Myanmar	20,1471	92,8698	3980	0	http://web.oie.int/wahis/reports/en_fup_0000010317_20110304_172427.pdf	
+2011-03-04	Myanmar	20,1471	92,8698	10530	0	http://web.oie.int/wahis/reports/en_fup_0000010317_20110304_172427.pdf	
+2011-03-04	Myanmar	20,1471	92,8698	11570	0	http://web.oie.int/wahis/reports/en_fup_0000010317_20110304_172427.pdf	
+2011-03-04	Myanmar	20,1425	92,874	9750	0	http://web.oie.int/wahis/reports/en_fup_0000010317_20110304_172427.pdf	
+2011-03-04	Myanmar	20,148	92,8667	11100	0	http://web.oie.int/wahis/reports/en_fup_0000010317_20110304_172427.pdf	
+2011-03-04	Myanmar	22,9444	95,4089	459	459	http://web.oie.int/wahis/reports/en_fup_0000010317_20110304_172427.pdf	
+2011-03-07	India	,	23,49	2198	2198	http://web.oie.int/wahis/reports/en_fup_0000010324_20110308_150029.pdf	
+2011-03-07	India	,	23,5	380	380	http://web.oie.int/wahis/reports/en_fup_0000010324_20110308_150029.pdf	
+2011-03-06	Bangladesh	24,333	88,91	13	13	http://web.oie.int/wahis/reports/en_fup_0000010325_20110306_171858.pdf	
+2011-03-06	Bangladesh	24,333	88,91	10	10	http://web.oie.int/wahis/reports/en_fup_0000010325_20110306_171858.pdf	
+2011-03-06	Bangladesh	23,84	90,25	12000	12000	http://web.oie.int/wahis/reports/en_fup_0000010325_20110306_171858.pdf	
+2011-03-06	Bangladesh	23,8	90,35	880	880	http://web.oie.int/wahis/reports/en_fup_0000010325_20110306_171858.pdf	
+2011-03-06	Bangladesh	23,68	90,55	212	212	http://web.oie.int/wahis/reports/en_fup_0000010325_20110306_171858.pdf	
+2011-03-06	Bangladesh	24,333	88,91	90	90	http://web.oie.int/wahis/reports/en_fup_0000010325_20110306_171858.pdf	
+2011-03-06	Bangladesh	23,79	90,29	319	319	http://web.oie.int/wahis/reports/en_fup_0000010325_20110306_171858.pdf	
+2011-03-06	Bangladesh	23,91	90,3	200	200	http://web.oie.int/wahis/reports/en_fup_0000010325_20110306_171858.pdf	
+2011-03-08	Vietnam	9,3331	105,313	80	50	http://web.oie.int/wahis/reports/en_fup_0000010332_20110308_152123.pdf	
+2011-03-08	Vietnam	9,104654	104,839648	188	134	http://web.oie.int/wahis/reports/en_fup_0000010332_20110308_152123.pdf	
+2011-03-08	Vietnam	9,1353	105,1108	225	225	http://web.oie.int/wahis/reports/en_fup_0000010332_20110308_152123.pdf	
+2011-03-08	Vietnam	9,2027	105,3237	3550	3550	http://web.oie.int/wahis/reports/en_fup_0000010332_20110308_152123.pdf	
+2011-03-08	Vietnam	9,11198	104,890706	2523	2523	http://web.oie.int/wahis/reports/en_fup_0000010332_20110308_152123.pdf	
+2011-03-08	Vietnam	9,0843	105,0743	40	40	http://web.oie.int/wahis/reports/en_fup_0000010332_20110308_152123.pdf	
+2011-03-08	Vietnam	9,332238	104,895181	10	10	http://web.oie.int/wahis/reports/en_fup_0000010332_20110308_152123.pdf	
+2011-03-11	Japan	35,432211	133,251157	57	57	http://web.oie.int/wahis/reports/en_fup_0000010333_20110311_135707.pdf	
+2011-03-11	Japan	35,443384	133,30569	NaN	1	http://web.oie.int/wahis/reports/en_fup_0000010333_20110311_135707.pdf	
+2011-03-11	Japan	32,050989	131,431375	36	36	http://web.oie.int/wahis/reports/en_fup_0000010333_20110311_135707.pdf	
+2011-03-11	Japan	32,0937	131,48	20	20	http://web.oie.int/wahis/reports/en_fup_0000010333_20110311_135707.pdf	
+2011-03-11	Japan	32,088452	130,297907	84	84	http://web.oie.int/wahis/reports/en_fup_0000010333_20110311_135707.pdf	
+2011-03-11	Japan	34,711628	137,448033	120	120	http://web.oie.int/wahis/reports/en_fup_0000010333_20110311_135707.pdf	
+2011-03-11	Japan	32,271552	131,539641	300	300	http://web.oie.int/wahis/reports/en_fup_0000010333_20110311_135707.pdf	
+2011-03-10	Cambodia	11,44	105,12	48	48	http://web.oie.int/wahis/reports/en_fup_0000010344_20110310_140102.pdf	
+2011-03-16	Japan	32,102814	130,274954	NaN	5	http://web.oie.int/wahis/reports/en_fup_0000010351_20110316_140122.pdf	
+2011-03-16	Japan	36,747838	137,022638	14	4	http://web.oie.int/wahis/reports/en_fup_0000010351_20110316_140122.pdf	
+2011-03-16	Japan	32,102814	130,274954	NaN	1	http://web.oie.int/wahis/reports/en_fup_0000010351_20110316_140122.pdf	
+2011-03-16	Japan	37,396142	140,368409	NaN	2	http://web.oie.int/wahis/reports/en_fup_0000010351_20110316_140122.pdf	
+2011-03-16	Japan	37,398532	140,364192	NaN	3	http://web.oie.int/wahis/reports/en_fup_0000010351_20110316_140122.pdf	
+2011-03-16	Japan	43,047314	145,016441	NaN	5	http://web.oie.int/wahis/reports/en_fup_0000010351_20110316_140122.pdf	
+2011-03-16	Japan	34,79506	135,398083	NaN	2	http://web.oie.int/wahis/reports/en_fup_0000010351_20110316_140122.pdf	
+2011-03-15	Palestinian Auton. Territories	32,3359	35,3264	2000	2000	http://web.oie.int/wahis/reports/en_fup_0000010366_20110315_171754.pdf	
+2011-03-15	Israel	31,667569086	35,1251237294	1000	200	http://web.oie.int/wahis/reports/en_fup_0000010368_20110315_135254.pdf	
+2011-03-16	Palestinian Auton. Territories	32,3359	35,3264	2000	2000	http://web.oie.int/wahis/reports/en_fup_0000010371_20110316_140449.pdf	
+2011-03-17	Korea (Rep. of)	36,380855	126,221268	NaN	2	http://web.oie.int/wahis/reports/en_fup_0000010374_20110317_135110.pdf	
+2011-03-17	Korea (Rep. of)	35,53469	126,569188	39	1	http://web.oie.int/wahis/reports/en_fup_0000010374_20110317_135110.pdf	
+2011-03-17	Korea (Rep. of)	34,6306	126,4644	74	20	http://web.oie.int/wahis/reports/en_fup_0000010374_20110317_135110.pdf	
+2011-03-17	Korea (Rep. of)	36,430021	127,072233	1	1	http://web.oie.int/wahis/reports/en_fup_0000010374_20110317_135110.pdf	
+2011-03-17	Korea (Rep. of)	36,064585	127,023646	5	5	http://web.oie.int/wahis/reports/en_fup_0000010374_20110317_135110.pdf	
+2011-03-17	Korea (Rep. of)	34,590794	128,034907	NaN	1	http://web.oie.int/wahis/reports/en_fup_0000010374_20110317_135110.pdf	
+2011-03-17	Korea (Rep. of)	34,503699	126,354525	4500	4500	http://web.oie.int/wahis/reports/en_fup_0000010374_20110317_135110.pdf	
+2011-01-18	Myanmar	20,1448	92,8784	500	500	http://web.oie.int/wahis/reports/en_imm_0000010166_20110118_135320.pdf	
+2011-01-21	Hong Kong (SAR - PRC)	22,478058	114,046247	NaN	1	http://web.oie.int/wahis/reports/en_imm_0000010174_20110121_141952.pdf	
+2011-01-21	Hong Kong (SAR - PRC)	22,258305	113,863918	NaN	1	http://web.oie.int/wahis/reports/en_imm_0000010174_20110121_141952.pdf	
+2011-02-07	Cambodia	11,44	105,12	48	48	http://web.oie.int/wahis/reports/en_imm_0000010206_20110207_160420.pdf	
+2011-02-17	India	,	23,49	2198	2198	http://web.oie.int/wahis/reports/en_imm_0000010264_20110217_152510.pdf	
+2011-03-03	Palestinian Auton. Territories	32,3359	35,3264	2000	2000	http://web.oie.int/wahis/reports/en_imm_0000010302_20110303_141623.pdf	
+2011-03-07	Israel	31,667569086	35,1251237294	1000	200	http://web.oie.int/wahis/reports/en_imm_0000010330_20110307_124354.pdf	
